@@ -1,10 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafsan - Ahmed Al
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafsan 
 =========================================================================================================================================
 
 Aspiring Data Scientist | Learning Python • ML • SQL • Tableau • Power BI • Git | Master’s in BIS | Based in Melbourne
 ----------------------------------------------------------------------------------------------------------------------
 
-\## 👋 Hi, I'm Ahmed Al Rafsan 🎓 Master’s Student in Business Information Systems (Data Analytics) 📍 Based in Melbourne, Australia 💻 Aspiring Data Scientist | Future Machine Learning Engineer & AI Specialist --- ### 🔍 About Me I’m a career-driven tech enthusiast with a background in Aeronautical Engineering and Human Resource Management, now focused on the world of data. Currently pursuing my Master’s in Business Information Systems, I’m building a strong foundation in data analytics, machine learning, and artificial intelligence. My long-term vision is to transition from a Data Analyst to a Data Scientist, then to a Machine Learning Engineer, and ultimately grow into an AI Specialist. --- ### 🚀 Skills & Tools - \*\*Languages & Libraries:\*\* Python (NumPy, Pandas, Matplotlib, scikit-learn), SQL - \*\*Visualization:\*\* Tableau, Power BI, Seaborn - \*\*Tools:\*\* Git, GitHub, Jupyter Notebook - \*\*Currently Exploring:\*\* Django, HTML/CSS, React, TensorFlow, NLP --- ### 📚 Currently Learning - Data Analysis with Python - Machine Learning Models and Evaluation - Dashboarding in Power BI and Tableau - Git & GitHub for portfolio collaboration - Web Development Basics (for AI app integration) --- ### 📈 Career Roadmap 1. \*\*Data Analyst\*\* – Master data cleaning, visualization, and SQL 2. \*\*Data Scientist\*\* – Learn ML models, statistics, model evaluation 3. \*\*ML Engineer\*\* – Deploy models using cloud tools and advanced libraries 4. \*\*AI Specialist\*\* – Explore deep learning, NLP, computer vision, and LLMs --- ### 💡 Fun Fact I'm passionate about making machines think, but also about helping humans understand data better through storytelling, automation, and visual impact.
+\## 👋 Hi, I'm Ahmed Al Rafsan 🎓 Master’s Student in Business Information Systems (Data Analytics) 📍 Based in Melbourne, Australia 💻 Aspiring Data Scientist | Future Machine Learning Engineer & AI Specialist --- 
+
+### 🔍 About Me I’m a career-driven tech enthusiast with a background in Aeronautical Engineering and Human Resource Management, now focused on the world of data. Currently pursuing my Master’s in Business Information Systems, I’m building a strong foundation in data analytics, machine learning, and artificial intelligence. My long-term vision is to transition from a Data Analyst to a Data Scientist, then to a Machine Learning Engineer, and ultimately grow into an AI Specialist. ---
+
+### 🚀 Skills & Tools - \*\*Languages & Libraries:\*\* Python (NumPy, Pandas, Matplotlib, scikit-learn), SQL - \*\*Visualization:\*\* Tableau, Power BI, Seaborn - \*\*Tools:\*\* Git, GitHub, Jupyter Notebook - \*\*Currently Exploring:\*\* Django, HTML/CSS, React, TensorFlow, NLP  
+
+### 📚 Currently Learning - Data Analysis with Python - Machine Learning Models and Evaluation - Dashboarding in Power BI and Tableau - Git & GitHub for portfolio collaboration - Web Development Basics (for AI app integration) 
+
+### 📈 Career Roadmap 1. \*\*Data Analyst\*\* – Master data cleaning, visualization, and SQL 2. \*\*Data Scientist\*\* – Learn ML models, statistics, model evaluation 3. \*\*ML Engineer\*\* – Deploy models using cloud tools and advanced libraries 4. \*\*AI Specialist\*\* – Explore deep learning, NLP, computer vision, and LLMs 
+
+### 💡 Fun Fact I'm passionate about making machines think, but also about helping humans understand data better through storytelling, automation, and visual impact.
 
 * 🌍  I'm based in Melbourne,Australia
 * ✉️  You can contact me at [ahmed.rafsan108@gmail.com](mailto:ahmed.rafsan108@gmail.com)
