@@ -33,14 +33,5 @@ I'm a passionate learner currently pursuing my Master’s in Business Informatio
 - Open-source beginner-friendly AI or ML repos  
 - GitHub portfolio-building communities  
 
----
-
-### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn URL] *(replace with your real link)*  
-- Email: [Your Email Address] *(replace with your real email)*  
-- GitHub Repos: [Explore below ⬇️]  
-
----
-
 ### ⚡ Fun Fact
 I love simplifying complex concepts and learning one small skill every day toward my goal of becoming a future-ready AI and data professional.
