@@ -3,10 +3,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Data Scientist | Learning Python • ML • SQL • Tableau • Power BI • Git | Master’s in BIS | Based in Melbourne
 ----------------------------------------------------------------------------------------------------------------------
+### 📈 Career Roadmap  
 
-### 📈 Career Roadmap 1. \*\*Data Analyst\*\* – Master data cleaning, visualization, and SQL 2. \*\*Data Scientist\*\* – Learn ML models, statistics, model evaluation 3. \*\*ML Engineer\*\* – Deploy models using cloud tools and advanced libraries 4. \*\*AI Specialist\*\* – Explore deep learning, NLP, computer vision, and LLMs 
+1. **Data Analyst** – Master data cleaning, visualization, and SQL  
+2. **Data Scientist** – Learn ML models, statistics, model evaluation  
+3. **ML Engineer** – Deploy models using cloud tools and advanced libraries  
+4. **AI Specialist** – Explore deep learning, NLP, computer vision, and LLMs  
 
-### 💡 Fun Fact I'm passionate about making machines think, but also about helping humans understand data better through storytelling, automation, and visual impact.
+---
+
+### 💡 Fun Fact  
+
+I'm passionate about making machines think, but also about helping humans understand data better through storytelling, automation, and visual impact.
 
 * 🌍  I'm based in Melbourne,Australia
 * ✉️  You can contact me at [ahmed.rafsan108@gmail.com](mailto:ahmed.rafsan108@gmail.com)
