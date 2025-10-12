@@ -1,79 +1,40 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafsan 
-=========================================================================================================================================
+# 👋 Hi, I'm Rafsan  
 
-Aspiring Data Scientist | Learning Python • ML • SQL • Tableau • Power BI • Git | Master’s in BIS | Based in Melbourne
-----------------------------------------------------------------------------------------------------------------------
-### 📈 Career Roadmap  
-
-1. **Data Analyst** – Master data cleaning, visualization, and SQL  
-2. **Data Scientist** – Learn ML models, statistics, model evaluation  
-3. **ML Engineer** – Deploy models using cloud tools and advanced libraries  
-4. **AI Specialist** – Explore deep learning, NLP, computer vision, and LLMs  
+ **Aspiring Data Analyst → Future Data Engineer**  
+ Passionate about turning raw data into insights, automation, and scalable data systems.  
+ Based in Melbourne | Master’s in Business Information Systems (Data Analytics)  
 
 ---
 
-### 💡 Fun Fact  
-
-I'm passionate about making machines think, but also about helping humans understand data better through storytelling, automation, and visual impact.
-
-* 🌍  I'm based in Melbourne,Australia
-* ✉️  You can contact me at [ahmed.rafsan108@gmail.com](mailto:ahmed.rafsan108@gmail.com)
-* 🧠  I'm learning - Python for Data Analysis (NumPy, Pandas, Matplotlib) - Machine Learning Basics (scikit-learn, model training & testing) - SQL (JOINS, subqueries, CTEs) - Dashboard creation with Power BI and Tableau - Git & GitHub collaboration workflow - Basics of HTML, CSS & Django (for AI integration with web apps)
-
-### Skills
-## 👋 Hi, I'm Ahmed Al Rafsan  
-
-🎓 Master’s Student in Business Information Systems (Data Analytics)  
-📍 Based in Melbourne, Australia  
-💻 Aspiring Data Scientist | Future Machine Learning Engineer & AI Specialist  
+##  Career Roadmap
+1. **Data Analyst** – Building strong foundations in SQL, Excel, Power BI, and Tableau to extract and visualize business insights.  
+2. **Data Engineer** – Designing data pipelines, mastering ETL processes, and optimizing databases using Python, SQL, and cloud tools.  
+3. **AI Engineer (Future Goal)** – Exploring how clean, well-structured data powers machine learning and AI models.  
 
 ---
 
-### 🔍 About Me  
-
-I’m a career-driven tech enthusiast with a background in Aeronautical Engineering and Human Resource Management, now focused on the world of data.  
-Currently pursuing my Master’s in Business Information Systems, I’m building a strong foundation in data analytics, machine learning, and artificial intelligence.  
-My long-term vision is to transition from a Data Analyst to a Data Scientist, then to a Machine Learning Engineer, and ultimately grow into an AI Specialist.  
-
----
-
-### 🚀 Skills & Tools  
-
-- **Languages & Libraries:** Python (NumPy, Pandas, Matplotlib, scikit-learn), SQL  
-- **Visualization:** Tableau, Power BI, Seaborn  
-- **Tools:** Git, GitHub, Jupyter Notebook  
-- **Currently Exploring:** Django, HTML/CSS, React, TensorFlow, NLP  
+## Current Focus
+- Practicing **SQL** through real-world datasets and Kaggle projects  
+- Building a **Data Analytics Portfolio** on [GitHub](https://github.com/Ahmed-Al-Rafsan/SQL-Portfolio-by-Rafsan/tree/main/SQL%20Mastery%20with%20Rafsan)  
+- Learning **Python for Data Processing** and **Power BI** for visualization  
+- Understanding database design, normalization, and automation concepts  
 
 ---
 
-### 📚 Currently Learning  
-
-- Data Analysis with Python  
-- Machine Learning Models and Evaluation  
-- Dashboarding in Power BI and Tableau  
-- Git & GitHub for portfolio collaboration  
-- Web Development Basics (for AI app integration)  
+##  Technical Skills
+**Languages & Tools:**  
+`SQL` · `Python` · `Power BI` · `Tableau` · `Excel` · `Git` · `MySQL Workbench`  
 
 ---
 
-### 📈 Career Roadmap  
-
-1. **Data Analyst** – Master data cleaning, visualization, and SQL  
-2. **Data Scientist** – Learn ML models, statistics, model evaluation  
-3. **ML Engineer** – Deploy models using cloud tools and advanced libraries  
-4. **AI Specialist** – Explore deep learning, NLP, computer vision, and LLMs  
+##  Learning Mindset
+> “Every query teaches me how data flows; every project teaches me how systems scale.”  
+>  
+> I’m committed to learning step-by-step, combining analytical thinking with engineering discipline.  
 
 ---
 
-### 💡 Fun Fact  
-
-I'm passionate about making machines think, but also about helping humans understand data better through storytelling, automation, and visual impact.
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Ahmed-Al-Rafsan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## 💬 Connect with Me
+📍 Melbourne, Australia  
+📧 [ahmed.rafsan108@gmail.com](mailto:ahmed.rafsan108@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ahmed-al-rafsan)  
