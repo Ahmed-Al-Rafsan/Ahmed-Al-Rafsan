@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rafsan Ahmed Al
+#  Ahmed Al Rafsan
 
 ### 📊 Data Analyst | Turning Raw Data Into Business Decisions
 
