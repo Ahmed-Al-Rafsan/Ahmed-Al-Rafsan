@@ -24,6 +24,18 @@ I'm currently building a portfolio of real-world projects — each one progressi
 
 ---
 
+## 🎯 Currently Working On
+
+> **Building toward an industry-ready Data Analyst portfolio by mid-2026.**
+
+```
+✅ Project 3 — Customer Segmentation & RFM Analysis  →  COMPLETE
+🔄 Forage Virtual Job Simulations (Quantium → KPMG → BCG)  →  IN PROGRESS
+📋 Project 4 — Melbourne Road Safety Analysis  →  NEXT
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -69,12 +81,12 @@ Investigated why a clothing company's revenue dropped 89%. Found critical custom
 <tr>
 <td width="50%">
 
-### 🛒 P3 — Customer Segmentation & RFM Analysis
-**Tools:** `Python` `SQL` `Power BI`
+### 🛒 P3 — Customer Segmentation & RFM Analysis ⭐ Featured
+**Tools:** `Python` `MySQL` `Power BI`
 
-RFM scoring, cohort analysis, customer lifetime value, business segmentation strategy.
+Identified £41M in revenue at risk across 5,878 customers using RFM scoring, cohort retention analysis, and Customer Lifetime Value modelling.
 
-`🔄 Coming Soon`
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/Customer-Segmentation-RFM-Analysis) [![Video](https://img.shields.io/badge/Watch_Video-FF0000?style=flat-square&logo=youtube)](https://youtu.be/27dancSDNOo)
 
 </td>
 <td width="50%">
@@ -105,6 +117,47 @@ Learning Tableau — calculated fields, dashboard actions, interactive filtering
 **Tools:** `Excel` `Power Query` `Python`
 
 Advanced Excel — pivot tables, XLOOKUP, financial modelling, Power Query automation.
+
+`📋 Planned`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Virtual Job Simulations
+
+> Industry-recognised programs from **Forage** — building exposure to how Data Analysts work inside real companies.
+
+<table>
+<tr>
+<td width="33%">
+
+### 🟢 Quantium
+**Data Analytics Job Simulation**
+
+Customer segmentation, retail analytics, and chip category insights — using Python and pandas.
+
+`🔄 In Progress`
+
+</td>
+<td width="33%">
+
+### 🔵 KPMG
+**Data Analytics Consulting Virtual Internship**
+
+Data quality assessment, customer targeting, and Power BI dashboarding for a Big 4 consulting context.
+
+`📋 Planned`
+
+</td>
+<td width="33%">
+
+### 🟣 BCG
+**Data Science & Analytics Virtual Experience**
+
+Customer churn prediction, exploratory analysis, and executive-level business presentation.
 
 `📋 Planned`
 
