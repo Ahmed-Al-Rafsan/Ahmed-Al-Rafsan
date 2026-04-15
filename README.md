@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedAlRafsan)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.rafsan108@gmail.com)
 
-`Melbourne, Australia` · `Master's in Business Analytics` · `DA → DE → AI Engineer`
+`Melbourne, Australia` · `MBIS (Data Analytics)` · `DA → AI Security Engineer`
 
 </div>
 
@@ -18,7 +18,7 @@
 
 I'm a Data Analyst who doesn't just make dashboards — I find the **story behind the numbers** and turn it into **business recommendations that drive action**.
 
-My background is unique: **Aeronautical Engineering** + **MBA in Human Resource Management** + **Master's in Business Analytics**. This combination gives me the ability to think like an engineer, understand people, and speak the language of business — all through data.
+My background is unique: **Aeronautical Engineering** + **MBA in Human Resource Management** + **Master's in Business Information Systems (Data Analytics)**. This combination gives me the ability to think like an engineer, understand people, and speak the language of business — all through data.
 
 I'm currently building a portfolio of real-world projects — each one progressively more advanced — to demonstrate job-ready skills across the full data stack.
 
@@ -29,9 +29,12 @@ I'm currently building a portfolio of real-world projects — each one progressi
 > **Building toward an industry-ready Data Analyst portfolio by mid-2026.**
 
 ```
-✅ Project 3 — Customer Segmentation & RFM Analysis  →  COMPLETE
-🔄 Forage Virtual Job Simulations (Quantium → KPMG → BCG)  →  IN PROGRESS
-📋 Project 4 — Melbourne Road Safety Analysis  →  NEXT
+✅ Project 1 — Melbourne CBD Business Analysis                →  COMPLETE
+✅ Project 2 — Fashion Retail Intelligence                    →  COMPLETE
+✅ Project 3 — Customer Segmentation & RFM Analysis           →  COMPLETE
+✅ Forage Simulations (Quantium + CommBank + Deloitte)         →  ALL 3 COMPLETE
+🔄 GitHub & CV update with Job Simulations                    →  IN PROGRESS
+📋 Project 4 — ETL Pipeline (Snowflake/Databricks)            →  NEXT
 ```
 
 ---
@@ -91,34 +94,12 @@ Identified £41M in revenue at risk across 5,878 customers using RFM scoring, co
 </td>
 <td width="50%">
 
-### 🚗 P4 — Melbourne Road Safety Analysis
-**Tools:** `Python` `SQL` `Power BI`
+### 🔧 P4 — ETL Pipeline (Cloud)
+**Tools:** `Python` `SQL` `Snowflake` `Databricks`
 
-Correlation analysis, statistical thinking, geographic insights using Victorian government data.
+Building an end-to-end data pipeline on cloud free tiers — extraction, transformation, loading, and orchestration.
 
-`📋 Planned`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 P5 — Sales Dashboard (Tableau)
-**Tools:** `Python` `SQL` `Tableau`
-
-Learning Tableau — calculated fields, dashboard actions, interactive filtering.
-
-`📋 Planned`
-
-</td>
-<td width="50%">
-
-### 💰 P6 — Financial Analysis (Excel)
-**Tools:** `Excel` `Power Query` `Python`
-
-Advanced Excel — pivot tables, XLOOKUP, financial modelling, Power Query automation.
-
-`📋 Planned`
+`📋 Next Up`
 
 </td>
 </tr>
@@ -126,40 +107,46 @@ Advanced Excel — pivot tables, XLOOKUP, financial modelling, Power Query autom
 
 ---
 
-## 🎓 Virtual Job Simulations
+## 🎓 Virtual Job Simulations (Forage)
 
-> Industry-recognised programs from **Forage** — building exposure to how Data Analysts work inside real companies.
+> Industry-recognised programs completed in April 2026 — building exposure to how Data Analysts work inside real companies.
 
 <table>
 <tr>
 <td width="33%">
 
-### 🟢 Quantium
-**Data Analytics Job Simulation**
+### 🟢 Quantium — Data Analytics
+**Retail Analytics · Python · pandas**
 
-Customer segmentation, retail analytics, and chip category insights — using Python and pandas.
+Analysed 260k+ chip transactions, segmented customers by lifestage × tier, evaluated trial store layout uplift across 3 locations.
 
-`🔄 In Progress`
+✅ **Complete**
 
-</td>
-<td width="33%">
-
-### 🔵 KPMG
-**Data Analytics Consulting Virtual Internship**
-
-Data quality assessment, customer targeting, and Power BI dashboarding for a Big 4 consulting context.
-
-`📋 Planned`
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/quantium-retail-analytics)
 
 </td>
 <td width="33%">
 
-### 🟣 BCG
-**Data Science & Analytics Virtual Experience**
+### 🟡 Commonwealth Bank — Data Science
+**Banking · Excel · Privacy · SQL**
 
-Customer churn prediction, exploratory analysis, and executive-level business presentation.
+Data aggregation (SUMIFS), PII anonymisation aligned with Australian Privacy Act, Twitter API analytics proposal, and relational database design.
 
-`📋 Planned`
+✅ **Complete**
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/commbank-data-science-simulation)
+
+</td>
+<td width="33%">
+
+### 🟣 Deloitte Australia — Data Analytics
+**Consulting · Tableau · Forensics**
+
+Built Tableau dashboard for factory telemetry downtime analysis (160k+ IoT records). Classified pay equity scores using forensic IF logic.
+
+✅ **Complete**
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/deloitte-forensic-analytics)
 
 </td>
 </tr>
@@ -182,12 +169,12 @@ Customer churn prediction, exploratory analysis, and executive-level business pr
 ## 🎯 Career Roadmap
 
 ```
- ✅ NOW                    🔜 NEXT                   🎯 FUTURE
-┌─────────────┐        ┌─────────────────┐       ┌──────────────┐
-│ Data Analyst │   →    │ Data Engineer   │   →   │ AI Engineer  │
-│ SQL, Python  │        │ ETL, Pipelines │       │ ML, Models   │
-│ Power BI     │        │ Cloud, dbt     │       │ Deployment   │
-└─────────────┘        └─────────────────┘       └──────────────┘
+ ✅ NOW                    🔜 NEXT                       🎯 FUTURE
+┌─────────────┐        ┌──────────────────┐       ┌─────────────────────┐
+│ Data Analyst │   →    │ Cyber Risk /     │   →   │ AI Security         │
+│ SQL, Python  │        │ Fraud / GRC      │       │ Engineer            │
+│ Power BI     │        │ Data Analyst     │       │ AI + Cybersecurity  │
+└─────────────┘        └──────────────────┘       └─────────────────────┘
 ```
 
 ---
@@ -204,6 +191,6 @@ I record video walkthroughs for every project — presenting findings **the way 
 
 *"Data analysis is not about making charts. It's about finding the story behind the numbers and turning it into actionable business recommendations."*
 
-📍 Melbourne, Australia · 🎓 Master's in Business Analytics · 📧 ahmed.rafsan108@gmail.com
+📍 Melbourne, Australia · 🎓 MBIS (Data Analytics), AIH · 📧 ahmed.rafsan108@gmail.com
 
 </div>
