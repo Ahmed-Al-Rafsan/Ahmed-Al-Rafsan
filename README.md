@@ -4,7 +4,7 @@
 
 ### 📊 Data Analyst | Turning Raw Data Into Business Decisions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-rafsan-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-rafsan-/)
 [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedAlRafsan)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.rafsan108@gmail.com)
 
@@ -33,8 +33,9 @@ I'm currently building a portfolio of real-world projects — each one progressi
 ✅ Project 2 — Fashion Retail Intelligence                    →  COMPLETE
 ✅ Project 3 — Customer Segmentation & RFM Analysis           →  COMPLETE
 ✅ Forage Simulations (Quantium + CommBank + Deloitte)         →  ALL 3 COMPLETE
-🔄 GitHub & CV update with Job Simulations                    →  IN PROGRESS
-📋 Project 4 — ETL Pipeline (Snowflake/Databricks)            →  NEXT
+🔄 Project 4 — Modern ELT Pipeline (Snowflake + dbt)          →  IN PROGRESS
+📋 Project 5 — Fraud & Anomaly Detection Dashboard            →  PLANNED
+📋 Project 6 — LLM-Augmented Analytics Workflow               →  PLANNED
 ```
 
 ---
@@ -48,6 +49,7 @@ I'm currently building a portfolio of real-world projects — each one progressi
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **BI & Visualisation** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-252545?style=flat-square&logoColor=white) |
 | **Data Tools** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Cloud & Engineering** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 | **Other** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-2B579A?style=flat-square&logoColor=white) |
 
 </div>
@@ -56,7 +58,7 @@ I'm currently building a portfolio of real-world projects — each one progressi
 
 ## 🚀 Portfolio Projects
 
-> Each project builds on the last — showing progression from foundational analysis to advanced techniques.
+> Each project builds on the last — showing progression from foundational analysis to advanced cloud engineering and AI-augmented workflows.
 
 <table>
 <tr>
@@ -94,12 +96,34 @@ Identified £41M in revenue at risk across 5,878 customers using RFM scoring, co
 </td>
 <td width="50%">
 
-### 🔧 P4 — ETL Pipeline (Cloud)
-**Tools:** `Python` `SQL` `Snowflake` `Databricks`
+### 🔧 P4 — Modern ELT Pipeline *(In Progress)*
+**Tools:** `Python` `SQL` `Snowflake` `dbt` `Power BI` `GitHub Actions`
 
-Building an end-to-end data pipeline on cloud free tiers — extraction, transformation, loading, and orchestration.
+End-to-end cloud data pipeline using medallion architecture (Bronze → Silver → Gold). Automated CI/CD with GitHub Actions. Production-grade data modelling on Snowflake free tier.
 
-`📋 Next Up`
+`🔄 In Progress`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 P5 — Fraud & Anomaly Detection Dashboard *(Planned)*
+**Tools:** `Python` `SQL` `Power BI` `Looker Studio`
+
+Anomaly detection using Isolation Forest on transactional data. A/B testing, cohort retention, and predictive forecasting with Prophet. Security-flavoured analytics bridging DA → Cyber Risk path.
+
+`📋 Planned`
+
+</td>
+<td width="50%">
+
+### 🤖 P6 — LLM-Augmented Analytics Workflow *(Planned)*
+**Tools:** `Python` `Claude API` `SQL` `GitHub`
+
+Natural language to SQL query generator. Automated EDA assistant. Prompt injection defense demo. Showcasing responsible AI integration in analytics workflows.
+
+`📋 Planned`
 
 </td>
 </tr>
