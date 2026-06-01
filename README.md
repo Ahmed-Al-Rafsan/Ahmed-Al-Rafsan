@@ -32,10 +32,11 @@ I'm currently building a portfolio of real-world projects — each one progressi
 ✅ Project 1 — Melbourne CBD Business Analysis                →  COMPLETE
 ✅ Project 2 — Fashion Retail Intelligence                    →  COMPLETE
 ✅ Project 3 — Customer Segmentation & RFM Analysis           →  COMPLETE
+✅ Project 4 — HR Employee Attrition Predictor (Python+SQL+BI+ML) → COMPLETE
 ✅ Forage Simulations (Quantium + CommBank + Deloitte)         →  ALL 3 COMPLETE
-🔄 Project 4 — Modern ELT Pipeline (Snowflake + dbt)          →  IN PROGRESS
-📋 Project 5 — Fraud & Anomaly Detection Dashboard            →  PLANNED
-📋 Project 6 — LLM-Augmented Analytics Workflow               →  PLANNED
+🔄 Project 5 — Modern ELT Pipeline (Snowflake + dbt)          →  IN PROGRESS
+📋 Project 6 — Fraud & Anomaly Detection Dashboard            →  PLANNED
+📋 Project 7 — LLM-Augmented Analytics Workflow               →  PLANNED
 ```
 
 ---
@@ -48,7 +49,7 @@ I'm currently building a portfolio of real-world projects — each one progressi
 |:--------:|:-----:|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **BI & Visualisation** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-252545?style=flat-square&logoColor=white) |
-| **Data Tools** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Data Tools** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **Cloud & Engineering** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 | **Other** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-2B579A?style=flat-square&logoColor=white) |
 
@@ -96,7 +97,19 @@ Identified £41M in revenue at risk across 5,878 customers using RFM scoring, co
 </td>
 <td width="50%">
 
-### 🔧 P4 — Modern ELT Pipeline *(In Progress)*
+### 🧑‍💼 P4 — HR Employee Attrition Predictor ⭐ Featured
+**Tools:** `Python` `MySQL` `Power BI` `Machine Learning`
+
+Combined 3 years of HR experience with ML to predict employee turnover. Logistic Regression + Random Forest, 11 SQL queries, and a 2-page Power BI dashboard scoring all 1,470 employees by risk tier.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/HR-Employee-Attrition-Predictor) [![Video](https://img.shields.io/badge/Watch_Video-FF0000?style=flat-square&logo=youtube)](https://youtu.be/V1bS9olSKx8)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔧 P5 — Modern ELT Pipeline *(In Progress)*
 **Tools:** `Python` `SQL` `Snowflake` `dbt` `Power BI` `GitHub Actions`
 
 End-to-end cloud data pipeline using medallion architecture (Bronze → Silver → Gold). Automated CI/CD with GitHub Actions. Production-grade data modelling on Snowflake free tier.
@@ -104,11 +117,9 @@ End-to-end cloud data pipeline using medallion architecture (Bronze → Silver �
 `🔄 In Progress`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### 🔍 P5 — Fraud & Anomaly Detection Dashboard *(Planned)*
+### 🔍 P6 — Fraud & Anomaly Detection Dashboard *(Planned)*
 **Tools:** `Python` `SQL` `Power BI` `Looker Studio`
 
 Anomaly detection using Isolation Forest on transactional data. A/B testing, cohort retention, and predictive forecasting with Prophet. Security-flavoured analytics bridging DA → Cyber Risk path.
@@ -116,14 +127,19 @@ Anomaly detection using Isolation Forest on transactional data. A/B testing, coh
 `📋 Planned`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 🤖 P6 — LLM-Augmented Analytics Workflow *(Planned)*
+### 🤖 P7 — LLM-Augmented Analytics Workflow *(Planned)*
 **Tools:** `Python` `Claude API` `SQL` `GitHub`
 
 Natural language to SQL query generator. Automated EDA assistant. Prompt injection defense demo. Showcasing responsible AI integration in analytics workflows.
 
 `📋 Planned`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
