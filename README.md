@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Ahmed Al Rafsan
@@ -35,7 +34,7 @@ Right now I'm leading a live industry client capstone and building a focused por
 | **BI & Visualisation** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-252545?style=flat-square&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-2B579A?style=flat-square&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
 | **Analysis & Data** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Currently developing** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_Data_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Currently developing** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 
 </div>
 
@@ -135,11 +134,42 @@ Messy multi-table source data transformed and tested with dbt (unique / not-null
 
 ## Industry Job Simulations (Forage)
 
-Completed virtual programs giving exposure to how analysts work inside real companies.
+Virtual programs giving exposure to how analysts work inside real companies.
 
-- **Quantium — Data Analytics** · analysed 260k+ chip transactions; customer segmentation and trial-store uplift. [Repo](https://github.com/Ahmed-Al-Rafsan/quantium-retail-analytics)
-- **Commonwealth Bank — Intro to Data Science** · conditional aggregation, PII anonymisation (Australian Privacy Act), 3NF schema design. [Repo](https://github.com/Ahmed-Al-Rafsan/commbank-data-science-simulation)
-- **Deloitte Australia — Data Analytics** · Tableau dashboard on 160k+ IoT telemetry records; forensic pay-equity classification. [Repo](https://github.com/Ahmed-Al-Rafsan/deloitte-forensic-analytics)
+<table>
+<tr>
+<td width="33%">
+
+### 🟢 Quantium — Data Analytics
+**Retail Analytics · Python · pandas**
+
+Analysed 260k+ chip transactions, segmented customers by lifestage × tier, evaluated trial store layout uplift across 3 locations.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/quantium-retail-analytics)
+
+</td>
+<td width="33%">
+
+### 🟡 Commonwealth Bank — Data Science
+**Banking · Excel · Privacy · SQL**
+
+Conditional aggregation, PII anonymisation aligned with the Australian Privacy Act, and a 5-table relational schema design (3NF).
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/commbank-data-science-simulation)
+
+</td>
+<td width="33%">
+
+### 🟣 Deloitte Australia — Data Analytics
+**Consulting · Tableau · Forensics**
+
+Built a Tableau dashboard for factory telemetry downtime analysis (160k+ IoT records); forensic pay-equity classification for an HR audit.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/deloitte-forensic-analytics)
+
+</td>
+</tr>
+</table>
 
 ---
 
