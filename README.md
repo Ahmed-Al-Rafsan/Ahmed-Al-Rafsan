@@ -2,7 +2,7 @@
 
 # Ahmed Al Rafsan
 
-### 📊 Data Analyst | SQL · Power BI · Excel · Python | Workforce & Business Analytics
+### 📊 Data Analyst | SQL · Power BI · Tableau · Excel · Python | Workforce & Business Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-rafsan-/)
 [![YouTube](https://img.shields.io/badge/YouTube-Walkthroughs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AhmedAlRafsan)
