@@ -18,9 +18,9 @@
 
 I'm a Data Analyst who turns messy, raw data into clear, decision-ready insights for non-technical stakeholders. I don't just build dashboards — I find the **business story behind the numbers** and turn it into **recommendations people can act on**.
 
-My background is a deliberate combination: **Aeronautical Engineering** taught me structured problem-solving, an **MBA in Human Resource Management** gave me a people-and-business lens, and a **Master of Business Information Systems (Data Analytics)** is sharpening the technical core. Before moving into analytics full-time, I owned the enterprise performance-reporting cycle for **500+ employees**, reporting directly to CEO and GM level.
+My background is a deliberate combination: **Aeronautical Engineering** taught me structured problem-solving, an **MBA in Human Resource Management** gave me a people-and-business lens, and a **Master of Business Information Systems (Data Analytics)** sharpened the technical core. Before moving into analytics full-time, I owned the enterprise performance-reporting cycle for **500+ employees**, reporting directly to CEO and GM level.
 
-Right now I'm leading a live industry client capstone and building a focused portfolio of end-to-end, business-first analytics projects.
+I recently completed a live six-month industry capstone as both **Team Lead** and **Data Analyst** for a real Australian small-business client — delivering a national school-targeting ML pipeline, a custom CRM with 9,855 schools pre-loaded, and an executive Power BI dashboard.
 
 ---
 
@@ -58,6 +58,19 @@ Business Problem  →  Clean & Validate (PCUVCOD)  →  Analyse & Query  →  In
 <tr>
 <td width="50%">
 
+### 🏫 Australian Schools Priority Targeting Model ⭐
+**`Python` · `scikit-learn` · `K-Means` · `Random Forest` · `Power BI` · `React CRM`**
+
+**Live industry capstone — Team Lead & Data Analyst.**
+Built an end-to-end ML pipeline to rank ~10,000 Australian schools for a real small-business client. Custom priority score + K-Means segmentation (k=4) + Random Forest validation (**AUC 0.972**). Delivered a Top 200 CRM-ready outreach list, a 2-page Power BI executive dashboard, and led a 6-person cross-functional team through the full project lifecycle.
+
+> Real client · Real data · Real handover
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/schools-priority-segmentation-capstone)
+
+</td>
+<td width="50%">
+
 ### 🧑‍💼 HR Employee Attrition Predictor
 **`Python` · `MySQL` · `Power BI` · `ML`**
 
@@ -66,6 +79,8 @@ Paired 3 years of HR-domain knowledge with machine learning to predict employee 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/HR-Employee-Attrition-Predictor) [![Video](https://img.shields.io/badge/Walkthrough-FF0000?style=flat-square&logo=youtube)](https://youtu.be/V1bS9olSKx8)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🛒 Customer Segmentation & RFM Analysis
@@ -76,8 +91,6 @@ Analysed 1M+ UK online-retail transactions; built a 7-script pipeline and an RFM
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/Customer-Segmentation-RFM-Analysis) [![Video](https://img.shields.io/badge/Walkthrough-FF0000?style=flat-square&logo=youtube)](https://youtu.be/27dancSDNOo)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 👗 Fashion Retail Intelligence
@@ -88,6 +101,8 @@ Root-cause investigation of an 89% revenue decline across 24 months of sales dat
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/Fashion-Retail-Intelligence) [![Video](https://img.shields.io/badge/Walkthrough-FF0000?style=flat-square&logo=youtube)](https://youtu.be/Y8TWx8vikOE)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏙️ Melbourne CBD Business Analysis
@@ -97,6 +112,8 @@ Explored 20+ years of Victorian Government open data — identified 45% growth i
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Al-Rafsan/melbourne-cbd-business-analysis)
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
