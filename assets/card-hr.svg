@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="t d">
+  <title id="t">HR Employee Attrition</title>
+  <desc id="d">Portfolio study, HR employee attrition. 1,470 employee records; 344 scored as high risk, 352 medium, 774 low; 11 SQL business queries; 8 custom DAX measures. Python, scikit-learn, MySQL, DAX, Power BI. IBM sample dataset; scores are a demonstration.</desc>
+  <style>
+    .sans{font-family:Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif}
+    .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+    .flow{stroke-dasharray:1 17;stroke-linecap:round;animation:flow 1.8s linear infinite}
+    .flow.slow{animation-duration:2.6s}
+    @keyframes flow{to{stroke-dashoffset:-36}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+    @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.1s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .blink{animation:blink 1.1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="bge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1630"/><stop offset=".6" stop-color="#0f2250"/><stop offset="1" stop-color="#173c8b"/>
+    </linearGradient>
+    <linearGradient id="fadee" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".15"/><stop offset=".55" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="maske"><rect width="100%" height="100%" fill="url(#fadee)"/></mask>
+    <clipPath id="clipe"><rect width="100%" height="100%" rx="20"/></clipPath>
+    <linearGradient id="rulee" x1="0" x2="1"><stop offset="0" stop-color="#2858ef"/><stop offset=".7" stop-color="#5b8cff"/><stop offset="1" stop-color="#7fdcc6"/></linearGradient>
+    <pattern id="gem" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#a9c4ff" stroke-opacity=".05"/>
+    </pattern>
+    <pattern id="geM" width="100" height="100" patternUnits="userSpaceOnUse">
+      <rect width="100" height="100" fill="url(#gem)"/>
+      <path d="M100 0H0V100" fill="none" stroke="#a9c4ff" stroke-opacity=".11"/>
+    </pattern></defs>
+  <rect width="1200" height="470" rx="20" fill="url(#bge)"/>
+  <rect width="1200" height="470" rx="20" fill="url(#geM)" mask="url(#maske)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#rulee)" clip-path="url(#clipe)"/>
+  <rect x=".5" y=".5" width="1199" height="469" rx="19.5" fill="none" stroke="#a9c4ff" stroke-opacity=".14"/>
+  <text x="48" y="60" class="mono" font-size="13.5" letter-spacing="2" fill="#5b8cff">03  —  PORTFOLIO STUDY · PEOPLE ANALYTICS</text>
+  <text x="46" y="112" class="sans" font-size="36" font-weight="700" letter-spacing="-.9" fill="#f2f6ff">HR Employee Attrition</text>
+  <text x="48" y="150" class="sans" font-size="19" fill="#b6c5e4">Who is likely to leave — and what is driving it?</text>
+  <text x="48" y="186" class="mono" font-size="13" letter-spacing="1.2" fill="#7fdcc6">HR REPORTING BACKGROUND → MACHINE LEARNING</text>
+  <rect x="48" y="208" width="141" height="100" rx="12" fill="#fff" fill-opacity=".045" stroke="#a9c4ff" stroke-opacity=".16"/><text x="64" y="252" class="sans" font-size="31" font-weight="700" letter-spacing="-.8" fill="#f2f6ff">1,470</text><text x="64" y="276" class="sans" font-size="13" fill="#b6c5e4">employee</text><text x="64" y="293" class="sans" font-size="13" fill="#b6c5e4">records</text><rect x="201" y="208" width="141" height="100" rx="12" fill="#fff" fill-opacity=".045" stroke="#a9c4ff" stroke-opacity=".16"/><text x="217" y="252" class="sans" font-size="31" font-weight="700" letter-spacing="-.8" fill="#f2f6ff">344</text><text x="217" y="276" class="sans" font-size="13" fill="#b6c5e4">scored as</text><text x="217" y="293" class="sans" font-size="13" fill="#b6c5e4">high risk</text><rect x="354" y="208" width="141" height="100" rx="12" fill="#fff" fill-opacity=".045" stroke="#a9c4ff" stroke-opacity=".16"/><text x="370" y="252" class="sans" font-size="31" font-weight="700" letter-spacing="-.8" fill="#f2f6ff">11</text><text x="370" y="276" class="sans" font-size="13" fill="#b6c5e4">SQL business</text><text x="370" y="293" class="sans" font-size="13" fill="#b6c5e4">queries</text><rect x="507" y="208" width="141" height="100" rx="12" fill="#fff" fill-opacity=".045" stroke="#a9c4ff" stroke-opacity=".16"/><text x="523" y="252" class="sans" font-size="31" font-weight="700" letter-spacing="-.8" fill="#f2f6ff">8</text><text x="523" y="276" class="sans" font-size="13" fill="#b6c5e4">custom DAX</text><text x="523" y="293" class="sans" font-size="13" fill="#b6c5e4">measures</text>
+  <rect x="48.0" y="336" width="70.6" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="83.3" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">Python</text><rect x="128.6" y="336" width="115.3" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="186.3" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">scikit-learn</text><rect x="253.9" y="336" width="63.2" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="285.5" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">MySQL</text><rect x="327.1" y="336" width="48.3" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="351.3" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">DAX</text><rect x="385.4" y="336" width="85.5" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="428.2" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">Power BI</text>
+  <text x="48" y="438" class="mono" font-size="12" letter-spacing=".1" fill="#7a8fb8">IBM HR sample dataset · scores are a demonstration, not a deployed system</text>
+
+  <g>
+    <rect x="672" y="36" width="484" height="398" rx="16" fill="#0a1630" fill-opacity=".55" stroke="#5b8cff" stroke-opacity=".28"/>
+    <path d="M665 36H679M672 29V43" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M1149 36H1163M1156 29V43" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M665 434H679M672 427V441" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M1149 434H1163M1156 427V441" stroke="#a9c4ff" stroke-opacity=".45"/>
+    <text x="704" y="72" class="mono" font-size="12.5" letter-spacing="1.4" fill="#7a8fb8">FIG. 04 — MODEL RISK TIERS · 1,470 RECORDS</text><text x="704" y="118" class="sans" font-size="14" fill="#b6c5e4">High risk</text><text x="1104" y="118" text-anchor="end" class="sans" font-size="18" font-weight="700" fill="#f2f6ff">344</text><rect x="704" y="128" width="400" height="22" rx="5" fill="#a9c4ff" fill-opacity=".1"/><rect class="grow" style="animation-delay:0.2s" x="704" y="128" width="93.6" height="22" rx="5" fill="#ff9d8a"/><text x="704" y="190" class="sans" font-size="14" fill="#b6c5e4">Medium risk</text><text x="1104" y="190" text-anchor="end" class="sans" font-size="18" font-weight="700" fill="#f2f6ff">352</text><rect x="704" y="200" width="400" height="22" rx="5" fill="#a9c4ff" fill-opacity=".1"/><rect class="grow" style="animation-delay:0.4s" x="704" y="200" width="95.8" height="22" rx="5" fill="#f3c66b"/><text x="704" y="262" class="sans" font-size="14" fill="#b6c5e4">Low risk</text><text x="1104" y="262" text-anchor="end" class="sans" font-size="18" font-weight="700" fill="#f2f6ff">774</text><rect x="704" y="272" width="400" height="22" rx="5" fill="#a9c4ff" fill-opacity=".1"/><rect class="grow" style="animation-delay:0.6s" x="704" y="272" width="210.6" height="22" rx="5" fill="#5b8cff"/><path d="M704 336V348M1104 336V348M704 342H1104" stroke="#a9c4ff" stroke-opacity=".45"/><text x="704" y="366" class="mono" font-size="12" fill="#7a8fb8">0</text><text x="1104" y="366" text-anchor="end" class="mono" font-size="12" fill="#7a8fb8">1,470</text>
+  </g>
+</svg>

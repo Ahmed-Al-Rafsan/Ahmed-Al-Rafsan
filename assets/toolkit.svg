@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="t d">
+  <title id="t">Toolkit — T-shaped</title>
+  <desc id="d">T-shaped skills map. Depth, used in every project: SQL and MySQL (joins, CTEs, window functions, CASE WHEN); Python (pandas, NumPy, matplotlib, seaborn, Jupyter); Power BI and DAX (data modelling, DAX measures, Power Query); Excel (pivot tables, XLOOKUP, SUMIFS, Power Query). Breadth applied in projects: applied machine learning with scikit-learn, statistics and testing, Tableau, Git and GitHub, relational data design, AI-assisted analytics. Developing now: dbt concepts, ETL and ELT patterns, cloud data foundations, PL-300 and DP-900 preparation. Long-term interest: data analysis and ML applied to aerospace.</desc>
+  <style>
+    .sans{font-family:Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif}
+    .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+    .flow{stroke-dasharray:1 17;stroke-linecap:round;animation:flow 1.8s linear infinite}
+    .flow.slow{animation-duration:2.6s}
+    @keyframes flow{to{stroke-dashoffset:-36}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+    @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.1s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .blink{animation:blink 1.1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="bgt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1630"/><stop offset=".6" stop-color="#0f2250"/><stop offset="1" stop-color="#173c8b"/>
+    </linearGradient>
+    <linearGradient id="fadet" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".15"/><stop offset=".55" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="maskt"><rect width="100%" height="100%" fill="url(#fadet)"/></mask>
+    <clipPath id="clipt"><rect width="100%" height="100%" rx="20"/></clipPath>
+    <linearGradient id="rulet" x1="0" x2="1"><stop offset="0" stop-color="#2858ef"/><stop offset=".7" stop-color="#5b8cff"/><stop offset="1" stop-color="#7fdcc6"/></linearGradient>
+    <pattern id="gtm" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#a9c4ff" stroke-opacity=".05"/>
+    </pattern>
+    <pattern id="gtM" width="100" height="100" patternUnits="userSpaceOnUse">
+      <rect width="100" height="100" fill="url(#gtm)"/>
+      <path d="M100 0H0V100" fill="none" stroke="#a9c4ff" stroke-opacity=".11"/>
+    </pattern>
+    <marker id="ta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1L9 5L0 9" fill="none" stroke="#a9c4ff" stroke-opacity=".8"/></marker>
+  </defs>
+  <rect width="1200" height="590" rx="20" fill="url(#bgt)"/>
+  <rect width="1200" height="590" rx="20" fill="url(#gtM)" mask="url(#maskt)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#rulet)" clip-path="url(#clipt)"/>
+  <rect x=".5" y=".5" width="1199" height="589" rx="19.5" fill="none" stroke="#a9c4ff" stroke-opacity=".14"/>
+  <text x="48" y="60" class="mono" font-size="13.5" letter-spacing="2" fill="#5b8cff">FIG. 05  —  TOOLKIT, T-SHAPED</text>
+  <text x="46" y="100" class="sans" font-size="28" font-weight="700" letter-spacing="-.6" fill="#f2f6ff">Deep where it counts. Broad enough to collaborate.</text>
+
+  <!-- breadth dimension line -->
+  <path d="M48 128H548" stroke="#a9c4ff" stroke-opacity=".55" marker-start="url(#ta)"/>
+  <path d="M652 128H1152" stroke="#a9c4ff" stroke-opacity=".55" marker-end="url(#ta)"/>
+  <text x="600" y="132" text-anchor="middle" class="mono" font-size="12.5" letter-spacing="2.4" fill="#b6c5e4">BREADTH</text>
+
+  <!-- the T -->
+  <path d="M62 146H1138Q1152 146 1152 160V254Q1152 268 1138 268H858Q844 268 844 282V538Q844 552 830 552H370Q356 552 356 538V282Q356 268 342 268H62Q48 268 48 254V160Q48 146 62 146Z" fill="#5b8cff" fill-opacity=".08" stroke="#5b8cff" stroke-opacity=".38"/>
+  <path d="M42 146H54M48 140V152" stroke="#a9c4ff" stroke-opacity=".3"/><path d="M1146 146H1158M1152 140V152" stroke="#a9c4ff" stroke-opacity=".3"/><path d="M42 268H54M48 262V274" stroke="#a9c4ff" stroke-opacity=".3"/><path d="M1146 268H1158M1152 262V274" stroke="#a9c4ff" stroke-opacity=".3"/>
+
+  <text x="68" y="174" class="mono" font-size="12" letter-spacing="1.6" fill="#b6c5e4">APPLIED IN PROJECTS</text>
+  <rect x="68.0" y="186" width="217.5" height="30" rx="15" fill="#5b8cff" fill-opacity=".16" stroke="#5b8cff" stroke-opacity=".55"/><text x="176.8" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#e3ebff">Applied ML · scikit-learn</text><rect x="295.5" y="186" width="180.0" height="30" rx="15" fill="#5b8cff" fill-opacity=".16" stroke="#5b8cff" stroke-opacity=".55"/><text x="385.5" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#e3ebff">Statistics &amp; testing</text><rect x="485.5" y="186" width="82.5" height="30" rx="15" fill="#5b8cff" fill-opacity=".16" stroke="#5b8cff" stroke-opacity=".55"/><text x="526.8" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#e3ebff">Tableau</text><rect x="578.0" y="186" width="120.0" height="30" rx="15" fill="#5b8cff" fill-opacity=".16" stroke="#5b8cff" stroke-opacity=".55"/><text x="638.0" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#e3ebff">Git &amp; GitHub</text><rect x="708.0" y="186" width="195.0" height="30" rx="15" fill="#5b8cff" fill-opacity=".16" stroke="#5b8cff" stroke-opacity=".55"/><text x="805.5" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#e3ebff">Relational data design</text><rect x="913.0" y="186" width="187.5" height="30" rx="15" fill="#5b8cff" fill-opacity=".16" stroke="#5b8cff" stroke-opacity=".55"/><text x="1006.8" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#e3ebff">AI-assisted analytics</text>
+  <text x="68" y="248" class="mono" font-size="12" letter-spacing="1.2" fill="#b6c5e4">DEVELOPING NOW</text>
+  <rect x="214.0" y="229" width="120.0" height="30" rx="15" fill="#5b8cff" fill-opacity=".03" stroke="#5b8cff" stroke-opacity=".55" stroke-dasharray="4 4"/><text x="274.0" y="248.5" text-anchor="middle" class="mono" font-size="12.5" fill="#c3d2f2">dbt concepts</text><rect x="344.0" y="229" width="165.0" height="30" rx="15" fill="#5b8cff" fill-opacity=".03" stroke="#5b8cff" stroke-opacity=".55" stroke-dasharray="4 4"/><text x="426.5" y="248.5" text-anchor="middle" class="mono" font-size="12.5" fill="#c3d2f2">ETL / ELT patterns</text><rect x="519.0" y="229" width="195.0" height="30" rx="15" fill="#5b8cff" fill-opacity=".03" stroke="#5b8cff" stroke-opacity=".55" stroke-dasharray="4 4"/><text x="616.5" y="248.5" text-anchor="middle" class="mono" font-size="12.5" fill="#c3d2f2">Cloud data foundations</text><rect x="724.0" y="229" width="180.0" height="30" rx="15" fill="#5b8cff" fill-opacity=".03" stroke="#5b8cff" stroke-opacity=".55" stroke-dasharray="4 4"/><text x="814.0" y="248.5" text-anchor="middle" class="mono" font-size="12.5" fill="#c3d2f2">PL-300 · DP-900 prep</text>
+
+  <!-- depth dimension line -->
+  <path d="M880 284V372" stroke="#a9c4ff" stroke-opacity=".55" marker-start="url(#ta)"/>
+  <path d="M880 450V536" stroke="#a9c4ff" stroke-opacity=".55" marker-end="url(#ta)"/>
+  <text transform="translate(880 411) rotate(90)" text-anchor="middle" dy="4" class="mono" font-size="12.5" letter-spacing="2.4" fill="#b6c5e4">DEPTH</text>
+  <rect x="376" y="284" width="448" height="58" rx="12" fill="#fff" fill-opacity=".05" stroke="#a9c4ff" stroke-opacity=".16"/><text x="396" y="309" class="sans" font-size="18" font-weight="700" fill="#f2f6ff">SQL / MySQL</text><text x="396" y="329" class="mono" font-size="12.5" fill="#b6c5e4">JOINs · CTEs · window functions · CASE WHEN</text><rect x="376" y="350" width="448" height="58" rx="12" fill="#fff" fill-opacity=".05" stroke="#a9c4ff" stroke-opacity=".16"/><text x="396" y="375" class="sans" font-size="18" font-weight="700" fill="#f2f6ff">Python</text><text x="396" y="395" class="mono" font-size="12.5" fill="#b6c5e4">pandas · NumPy · matplotlib · seaborn · Jupyter</text><rect x="376" y="416" width="448" height="58" rx="12" fill="#fff" fill-opacity=".05" stroke="#a9c4ff" stroke-opacity=".16"/><text x="396" y="441" class="sans" font-size="18" font-weight="700" fill="#f2f6ff">Power BI &amp; DAX</text><text x="396" y="461" class="mono" font-size="12.5" fill="#b6c5e4">Data modelling · DAX measures · Power Query</text><rect x="376" y="482" width="448" height="58" rx="12" fill="#fff" fill-opacity=".05" stroke="#a9c4ff" stroke-opacity=".16"/><text x="396" y="507" class="sans" font-size="18" font-weight="700" fill="#f2f6ff">Excel</text><text x="396" y="527" class="mono" font-size="12.5" fill="#b6c5e4">Pivot tables · XLOOKUP · SUMIFS · Power Query</text>
+
+  <!-- notes -->
+  <g class="mono" font-size="12.5">
+    <text x="48" y="304" letter-spacing="1.6" fill="#5b8cff">EVIDENCE</text>
+    <text x="48" y="326" fill="#b6c5e4">Every depth claim maps</text>
+    <text x="48" y="344" fill="#b6c5e4">to a project on this page.</text>
+    <text x="48" y="518" fill="#7a8fb8">No percentage bars —</text>
+    <text x="48" y="536" fill="#7a8fb8">the work is the evidence.</text>
+    <text x="1152" y="304" text-anchor="end" letter-spacing="1.6" fill="#5b8cff">LONG-TERM INTEREST</text>
+    <text x="1152" y="326" text-anchor="end" fill="#b6c5e4">Data analysis and ML</text>
+    <text x="1152" y="344" text-anchor="end" fill="#b6c5e4">applied to aerospace.</text>
+  </g>
+</svg>

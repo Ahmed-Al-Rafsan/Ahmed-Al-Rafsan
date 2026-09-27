@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="t d">
+  <title id="t">Schools Priority Targeting</title>
+  <desc id="d">Industry capstone, team lead and data analyst. Australian Schools Priority Targeting: which schools should a small outreach team approach first? 9,855 schools in the national dataset; 3,344 met the high-priority threshold; ROC-AUC 0.972 on held-out data; 200 schools prioritised for CRM outreach. Python, pandas, scikit-learn, K-Means, Random Forest, Power BI.</desc>
+  <style>
+    .sans{font-family:Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif}
+    .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+    .flow{stroke-dasharray:1 17;stroke-linecap:round;animation:flow 1.8s linear infinite}
+    .flow.slow{animation-duration:2.6s}
+    @keyframes flow{to{stroke-dashoffset:-36}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+    @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.1s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .blink{animation:blink 1.1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1630"/><stop offset=".6" stop-color="#0f2250"/><stop offset="1" stop-color="#173c8b"/>
+    </linearGradient>
+    <linearGradient id="fades" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".15"/><stop offset=".55" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="masks"><rect width="100%" height="100%" fill="url(#fades)"/></mask>
+    <clipPath id="clips"><rect width="100%" height="100%" rx="20"/></clipPath>
+    <linearGradient id="rules" x1="0" x2="1"><stop offset="0" stop-color="#2858ef"/><stop offset=".7" stop-color="#5b8cff"/><stop offset="1" stop-color="#7fdcc6"/></linearGradient>
+    <pattern id="gsm" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#a9c4ff" stroke-opacity=".05"/>
+    </pattern>
+    <pattern id="gsM" width="100" height="100" patternUnits="userSpaceOnUse">
+      <rect width="100" height="100" fill="url(#gsm)"/>
+      <path d="M100 0H0V100" fill="none" stroke="#a9c4ff" stroke-opacity=".11"/>
+    </pattern></defs>
+  <rect width="1200" height="470" rx="20" fill="url(#bgs)"/>
+  <rect width="1200" height="470" rx="20" fill="url(#gsM)" mask="url(#masks)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#rules)" clip-path="url(#clips)"/>
+  <rect x=".5" y=".5" width="1199" height="469" rx="19.5" fill="none" stroke="#a9c4ff" stroke-opacity=".14"/>
+  <text x="48" y="60" class="mono" font-size="13.5" letter-spacing="2" fill="#5b8cff">01  —  INDUSTRY CAPSTONE · AUSTRALIA</text>
+  <text x="46" y="112" class="sans" font-size="36" font-weight="700" letter-spacing="-.9" fill="#f2f6ff">Schools Priority Targeting</text>
+  <text x="48" y="150" class="sans" font-size="19" fill="#b6c5e4">Which schools should a small business approach first?</text>
+  <text x="48" y="186" class="mono" font-size="13" letter-spacing="1.2" fill="#7fdcc6">TEAM LEAD &amp; DATA ANALYST · SIX-PERSON TEAM</text>
+  <rect x="48" y="208" width="141" height="100" rx="12" fill="#fff" fill-opacity=".045" stroke="#a9c4ff" stroke-opacity=".16"/><text x="64" y="252" class="sans" font-size="31" font-weight="700" letter-spacing="-.8" fill="#f2f6ff">9,855</text><text x="64" y="276" class="sans" font-size="13" fill="#b6c5e4">schools in the</text><text x="64" y="293" class="sans" font-size="13" fill="#b6c5e4">national dataset</text><rect x="201" y="208" width="141" height="100" rx="12" fill="#fff" fill-opacity=".045" stroke="#a9c4ff" stroke-opacity=".16"/><text x="217" y="252" class="sans" font-size="31" font-weight="700" letter-spacing="-.8" fill="#f2f6ff">3,344</text><text x="217" y="276" class="sans" font-size="13" fill="#b6c5e4">met the high-</text><text x="217" y="293" class="sans" font-size="13" fill="#b6c5e4">priority threshold</text><rect x="354" y="208" width="141" height="100" rx="12" fill="#fff" fill-opacity=".045" stroke="#a9c4ff" stroke-opacity=".16"/><text x="370" y="252" class="sans" font-size="31" font-weight="700" letter-spacing="-.8" fill="#f2f6ff">0.972</text><text x="370" y="276" class="sans" font-size="13" fill="#b6c5e4">ROC-AUC on</text><text x="370" y="293" class="sans" font-size="13" fill="#b6c5e4">held-out data</text><rect x="507" y="208" width="141" height="100" rx="12" fill="#fff" fill-opacity=".045" stroke="#a9c4ff" stroke-opacity=".16"/><text x="523" y="252" class="sans" font-size="31" font-weight="700" letter-spacing="-.8" fill="#f2f6ff">200</text><text x="523" y="276" class="sans" font-size="13" fill="#b6c5e4">prioritised for</text><text x="523" y="293" class="sans" font-size="13" fill="#b6c5e4">CRM outreach</text>
+  <rect x="48.0" y="336" width="70.6" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="83.3" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">Python</text><rect x="128.6" y="336" width="70.6" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="164.0" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">pandas</text><rect x="209.3" y="336" width="115.3" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="266.9" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">scikit-learn</text><rect x="334.6" y="336" width="78.1" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="373.6" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">K-Means</text><rect x="422.6" y="336" width="122.7" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="484.0" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">Random Forest</text><rect x="555.4" y="336" width="85.5" height="28" rx="14" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".35"/><text x="598.1" y="354.5" text-anchor="middle" class="mono" font-size="12" fill="#d6e2ff">Power BI</text>
+  <text x="48" y="438" class="mono" font-size="12" letter-spacing=".1" fill="#7a8fb8">Engagement results · client data private · public repo runs on synthetic data</text>
+
+  <g>
+    <rect x="672" y="36" width="484" height="398" rx="16" fill="#0a1630" fill-opacity=".55" stroke="#5b8cff" stroke-opacity=".28"/>
+    <path d="M665 36H679M672 29V43" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M1149 36H1163M1156 29V43" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M665 434H679M672 427V441" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M1149 434H1163M1156 427V441" stroke="#a9c4ff" stroke-opacity=".45"/>
+    <text x="704" y="72" class="mono" font-size="12.5" letter-spacing="1.4" fill="#7a8fb8">FIG. 02 — FROM MARKET TO SHORTLIST</text><text x="704" y="118" class="sans" font-size="20" font-weight="700" fill="#f2f6ff">9,855<tspan class="sans" font-size="14" font-weight="400" fill="#b6c5e4">  schools in the national dataset</tspan></text><rect class="grow" style="animation-delay:0.2s" x="704" y="130" width="400.0" height="22" rx="5" fill="#a9c4ff" fill-opacity=".55"/><text x="704" y="200" class="sans" font-size="20" font-weight="700" fill="#f2f6ff">3,344<tspan class="sans" font-size="14" font-weight="400" fill="#b6c5e4">  met the high-priority threshold</tspan></text><rect class="grow" style="animation-delay:0.4s" x="704" y="212" width="135.7" height="22" rx="5" fill="#5b8cff" fill-opacity=".95"/><text x="704" y="282" class="sans" font-size="20" font-weight="700" fill="#f2f6ff">200<tspan class="sans" font-size="14" font-weight="400" fill="#b6c5e4">  prioritised for CRM outreach</tspan></text><rect class="grow" style="animation-delay:0.6s" x="704" y="294" width="8.1" height="22" rx="5" fill="#7fdcc6" fill-opacity="1"/><path d="M704 356V368M1104 356V368M704 362H1104" stroke="#a9c4ff" stroke-opacity=".45"/><text x="704" y="388" class="mono" font-size="12" fill="#7a8fb8">0</text><text x="1104" y="388" text-anchor="end" class="mono" font-size="12" fill="#7a8fb8">9,855</text><text x="904.0" y="388" text-anchor="middle" class="mono" font-size="12" letter-spacing="1" fill="#7a8fb8">BARS TO SCALE</text><text x="744" y="312" class="mono" font-size="12.5" fill="#7fdcc6">← about 2% of the national list</text>
+  </g>
+</svg>
