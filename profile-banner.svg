@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Al Rafsan — Data Analyst</title>
+  <desc id="desc">A navy and blue portfolio banner with an abstract connected data graphic. Engineering roots. Business perspective. SQL, Python and Power BI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y2="0.7"><stop stop-color="#101d37"/><stop offset="1" stop-color="#173c8b"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5389ff" stop-opacity=".25"/><stop offset="1" stop-color="#3665e7" stop-opacity=".05"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#85acff" stroke-opacity=".10"/></pattern>
+  </defs>
+  <rect width="1600" height="520" rx="24" fill="url(#bg)"/>
+  <rect x="980" width="620" height="520" fill="url(#grid)"/>
+  <path d="M0 4H1600" stroke="#5586ff" stroke-width="8"/>
+  <g font-family="DejaVu Sans, sans-serif">
+    <rect x="68" y="57" width="226" height="38" rx="19" fill="#436be2" fill-opacity=".24" stroke="#709aff" stroke-opacity=".4"/>
+    <circle cx="92" cy="76" r="5" fill="#81d9c5"/>
+    <text x="109" y="83" fill="#d4e2ff" font-size="17" letter-spacing="2">DATA ANALYST</text>
+    <text x="66" y="202" fill="#ffffff" font-size="74" font-weight="700" letter-spacing="-2">Ahmed Al Rafsan</text>
+    <text x="70" y="270" fill="#bdceef" font-size="28">Engineering roots. Business perspective.</text>
+    <text x="70" y="315" fill="#bdceef" font-size="28">Turning data into useful decisions.</text>
+    <path d="M70 363H885" stroke="#799ad3" stroke-opacity=".28"/>
+    <text x="70" y="410" fill="#9cc1ff" font-size="21" letter-spacing="2">SQL  /  PYTHON  /  POWER BI</text>
+    <text x="70" y="459" fill="#a2b3d0" font-size="17" letter-spacing="2">MELBOURNE, AUSTRALIA</text>
+  </g>
+  <g transform="translate(1030 81)">
+    <rect width="490" height="354" rx="24" fill="url(#panel)" stroke="#7da7ff" stroke-opacity=".35"/>
+    <circle cx="27" cy="25" r="4" fill="#80a4ef"/><circle cx="43" cy="25" r="4" fill="#80a4ef" opacity=".6"/><circle cx="59" cy="25" r="4" fill="#80a4ef" opacity=".35"/>
+    <path d="M0 49H490" stroke="#7da7ff" stroke-opacity=".2"/>
+    <g fill="none" stroke="#7fa7ff" stroke-width="2" opacity=".75">
+      <path d="M114 122H202V195H265"/><path d="M114 195H265"/><path d="M114 268H202V195H265"/>
+      <path d="M340 195H390V116"/><path d="M390 195V268"/>
+    </g>
+    <g fill="#183974" stroke="#8bb5ff" stroke-opacity=".55">
+      <rect x="49" y="99" width="66" height="46" rx="11"/><rect x="49" y="172" width="66" height="46" rx="11"/><rect x="49" y="245" width="66" height="46" rx="11"/>
+    </g>
+    <g fill="#aecaff"><rect x="65" y="115" width="34" height="4" rx="2"/><rect x="65" y="125" width="23" height="4" rx="2"/><rect x="65" y="188" width="34" height="4" rx="2"/><rect x="65" y="198" width="23" height="4" rx="2"/><rect x="65" y="261" width="34" height="4" rx="2"/><rect x="65" y="271" width="23" height="4" rx="2"/></g>
+    <rect x="253" y="153" width="88" height="84" rx="20" fill="#4e79ee"/>
+    <path d="M276 193L290 207L317 179" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#8cb3ff"><rect x="374" y="95" width="34" height="34" rx="8"/><rect x="374" y="251" width="34" height="34" rx="8"/></g>
+    <circle cx="390" cy="195" r="11" fill="#8be0cf"/>
+    <g fill="#bdcfee" font-family="DejaVu Sans, sans-serif" font-size="13" letter-spacing="2"><text x="49" y="326">QUESTION</text><text x="239" y="326">ANALYSIS</text><text x="366" y="326">INSIGHT</text></g>
+  </g>
+</svg>
