@@ -31,6 +31,8 @@ My current focus is the engineering side of data: pipelines that are repeatable,
 
 **[Walk through my virtual office →](https://ahmed-al-rafsan.github.io/)** A guided tour with separate rooms for engineering, data, projects, credentials and the roadmap.
 
+<img src="assets/architecture.svg" width="100%" alt="A five-stage data flow, all built: sources, ingest, validate, model, report. Three layers are planned and not built yet: testing and shipping, cloud pipelines, and LLM applications." />
+
 ## Where I am, and where I am going
 
 Everything on this profile carries one of three labels, so you can tell finished work from plans.
@@ -44,6 +46,15 @@ Everything on this profile carries one of three labels, so you can tell finished
 Planned items are a roadmap, not experience. Each one moves up only when there is a repository behind it.
 
 **Open to** Data Analyst and Junior Data Engineer roles, anywhere in Australia or remote.
+
+### Recent experience
+
+| When | Role | Evidence |
+| :-- | :-- | :-- |
+| Oct to Nov 2026 | **Data analyst intern**, Powerdata Group Consulting, Melbourne | Cleaned Zoho CRM and Excel/CSV data and built Power BI reports. Delivered a demonstration analysis of 106 historical AusTender awards ($5.89M, 21 service categories) as an interactive dashboard and an executive brief. Provisionally grouped 81 supplier-name variants into 65 groups and recommended identity checks before any outreach. |
+| Jun 2026 | **Team lead and data analytics lead**, industry capstone | Six people, 9,855 school records, a Top 200 outreach list loaded into the client's CRM. Details below. |
+| May 2025 to now | **Pharmacy assistant**, Chemist Warehouse | Built an Excel task-tracking prototype for a six-person store team, with status dropdowns, sign-off checks and a date-selectable management dashboard. |
+| Sep 2022 to Feb 2024 | **HR Executive, Organisational Development**, Kazi Farms Group | Monthly KPI reports for 500+ employees, for CEO and GM stakeholders. |
 
 ## Latest build — data engineering
 
@@ -114,6 +125,20 @@ Planned items are a roadmap, not experience. Each one moves up only when there i
 | [Deloitte forensic analytics](https://github.com/Ahmed-Al-Rafsan/deloitte-forensic-analytics) | Tableau telemetry dashboard and pay-equity classification | Forage simulation |
 
 The Forage projects are learning simulations, not employment with those organisations.
+
+</details>
+
+<details>
+<summary><strong>Engineering decisions I would defend</strong></summary>
+
+<br />
+
+| Situation | Decision | Why |
+| :-- | :-- | :-- |
+| A sales export has rows with no quantity or a price typed as text | **Quarantine with a reason; never impute** | Filling a gap with zero would quietly understate revenue. The rejected file keeps the evidence, and `58 = 2 + 53 + 3` reconciles. |
+| A discount value is missing | **Keep it unknown, not 0%** | Unknown and zero lead to different business conclusions. |
+| A model label is derived from one variable | **Exclude that variable from the inputs** | Otherwise the model only looks up the answer. The ROC-AUC of 0.972 is reported as label recovery, not sales conversion. |
+| A pipeline writes its output files | **Read them back and assert the counts** | A successful write is not proof of a correct file. |
 
 </details>
 

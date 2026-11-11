@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="t d">
+  <title id="t">How the data work is put together</title>
+  <desc id="d">A five-stage data flow: sources, ingest, validate, model, report. All five stages are built: CSV, Excel and MySQL sources; Python and pandas ingest with logging; quarantine with a reason and reconciled row counts; scikit-learn models; Power BI dashboards and executive briefs. Three layers are planned and not yet built: testing and shipping with pytest, GitHub Actions, FastAPI and Docker; cloud pipelines on Azure Data Factory, Databricks, PySpark and Delta Lake; and LLM applications with retrieval, agents and evaluation.</desc>
+  <style>
+    .sans{font-family:Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif}
+    .flow{stroke-dasharray:1 14;stroke-linecap:round;animation:flow 1.6s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-30}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1630"/><stop offset="1" stop-color="#112250"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#17306a"/><stop offset="1" stop-color="#112557"/></linearGradient>
+  </defs>
+  <rect width="1200" height="590" rx="22" fill="url(#bg)"/>
+  <text class="sans" x="40" y="58" font-size="26" font-weight="700" fill="#f2f6ff">How my data work is put together</text>
+  <text class="sans" x="40" y="88" font-size="17" fill="#b6c5e4">One flow, every stage labelled by what exists today. The roadmap layers are drawn dashed because they are not built yet.</text>
+
+  <rect x="40" y="120" width="208" height="214" rx="14" fill="url(#card)" stroke="#5b8cff" stroke-opacity=".55"/>
+  <text class="sans" x="58" y="160" font-size="22" font-weight="700" fill="#f2f6ff">Sources</text>
+  <text class="sans" x="58" y="196" font-size="16" fill="#c3d2f2">CSV and Excel files,</text>
+  <text class="sans" x="58" y="222" font-size="16" fill="#c3d2f2">MySQL tables,</text>
+  <text class="sans" x="58" y="248" font-size="16" fill="#c3d2f2">Zoho CRM exports</text>
+  <rect x="58" y="286" width="80" height="30" rx="15" fill="#5b8cff"/><text class="sans" x="98" y="306" font-size="15" font-weight="700" fill="#06112b" text-anchor="middle">Built</text>
+  <path d="M254 218 L266 227 L254 236" fill="none" stroke="#e3ebff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="268" y="120" width="208" height="214" rx="14" fill="url(#card)" stroke="#5b8cff" stroke-opacity=".55"/>
+  <text class="sans" x="286" y="160" font-size="22" font-weight="700" fill="#f2f6ff">Ingest</text>
+  <text class="sans" x="286" y="196" font-size="16" fill="#c3d2f2">Python and pandas,</text>
+  <text class="sans" x="286" y="222" font-size="16" fill="#c3d2f2">try/except with</text>
+  <text class="sans" x="286" y="248" font-size="16" fill="#c3d2f2">logging</text>
+  <rect x="286" y="286" width="80" height="30" rx="15" fill="#5b8cff"/><text class="sans" x="326" y="306" font-size="15" font-weight="700" fill="#06112b" text-anchor="middle">Built</text>
+  <path d="M482 218 L494 227 L482 236" fill="none" stroke="#e3ebff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="496" y="120" width="208" height="214" rx="14" fill="url(#card)" stroke="#5b8cff" stroke-opacity=".55"/>
+  <text class="sans" x="514" y="160" font-size="22" font-weight="700" fill="#f2f6ff">Validate</text>
+  <text class="sans" x="514" y="196" font-size="16" fill="#c3d2f2">Quarantine with a</text>
+  <text class="sans" x="514" y="222" font-size="16" fill="#c3d2f2">reason, row counts</text>
+  <text class="sans" x="514" y="248" font-size="16" fill="#c3d2f2">that reconcile</text>
+  <rect x="514" y="286" width="80" height="30" rx="15" fill="#5b8cff"/><text class="sans" x="554" y="306" font-size="15" font-weight="700" fill="#06112b" text-anchor="middle">Built</text>
+  <path d="M710 218 L722 227 L710 236" fill="none" stroke="#e3ebff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="724" y="120" width="208" height="214" rx="14" fill="url(#card)" stroke="#5b8cff" stroke-opacity=".55"/>
+  <text class="sans" x="742" y="160" font-size="22" font-weight="700" fill="#f2f6ff">Model</text>
+  <text class="sans" x="742" y="196" font-size="16" fill="#c3d2f2">scikit-learn: Random</text>
+  <text class="sans" x="742" y="222" font-size="16" fill="#c3d2f2">Forest, K-Means,</text>
+  <text class="sans" x="742" y="248" font-size="16" fill="#c3d2f2">Logistic Regression</text>
+  <rect x="742" y="286" width="80" height="30" rx="15" fill="#5b8cff"/><text class="sans" x="782" y="306" font-size="15" font-weight="700" fill="#06112b" text-anchor="middle">Built</text>
+  <path d="M938 218 L950 227 L938 236" fill="none" stroke="#e3ebff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="952" y="120" width="208" height="214" rx="14" fill="url(#card)" stroke="#5b8cff" stroke-opacity=".55"/>
+  <text class="sans" x="970" y="160" font-size="22" font-weight="700" fill="#f2f6ff">Report</text>
+  <text class="sans" x="970" y="196" font-size="16" fill="#c3d2f2">Power BI dashboards</text>
+  <text class="sans" x="970" y="222" font-size="16" fill="#c3d2f2">and executive</text>
+  <text class="sans" x="970" y="248" font-size="16" fill="#c3d2f2">briefs</text>
+  <rect x="970" y="286" width="80" height="30" rx="15" fill="#5b8cff"/><text class="sans" x="1010" y="306" font-size="15" font-weight="700" fill="#06112b" text-anchor="middle">Built</text>
+  <text class="sans" x="40" y="388" font-size="20" font-weight="700" fill="#f2f6ff">Next layers, not built yet</text>
+  <rect x="40" y="408" width="360" height="150" rx="14" fill="none" stroke="#7a8fb8" stroke-width="2" stroke-dasharray="7 7"/>
+  <text class="sans" x="60" y="446" font-size="20" font-weight="700" fill="#e3ebff">Test and ship</text>
+  <text class="sans" x="60" y="476" font-size="16" fill="#b6c5e4">pytest, GitHub Actions,</text>
+  <text class="sans" x="60" y="500" font-size="16" fill="#b6c5e4">FastAPI and Docker</text>
+  <rect x="60" y="518" width="84" height="28" rx="14" fill="none" stroke="#7a8fb8" stroke-dasharray="4 4"/><text class="sans" x="102" y="537" font-size="15" font-weight="700" fill="#b6c5e4" text-anchor="middle">Planned</text>
+  <rect x="420" y="408" width="360" height="150" rx="14" fill="none" stroke="#7a8fb8" stroke-width="2" stroke-dasharray="7 7"/>
+  <text class="sans" x="440" y="446" font-size="20" font-weight="700" fill="#e3ebff">Cloud pipelines</text>
+  <text class="sans" x="440" y="476" font-size="16" fill="#b6c5e4">Azure Data Factory,</text>
+  <text class="sans" x="440" y="500" font-size="16" fill="#b6c5e4">Databricks, PySpark, Delta Lake</text>
+  <rect x="440" y="518" width="84" height="28" rx="14" fill="none" stroke="#7a8fb8" stroke-dasharray="4 4"/><text class="sans" x="482" y="537" font-size="15" font-weight="700" fill="#b6c5e4" text-anchor="middle">Planned</text>
+  <rect x="800" y="408" width="360" height="150" rx="14" fill="none" stroke="#7a8fb8" stroke-width="2" stroke-dasharray="7 7"/>
+  <text class="sans" x="820" y="446" font-size="20" font-weight="700" fill="#e3ebff">LLM applications</text>
+  <text class="sans" x="820" y="476" font-size="16" fill="#b6c5e4">Retrieval, agents and</text>
+  <text class="sans" x="820" y="500" font-size="16" fill="#b6c5e4">evaluation on top of clean data</text>
+  <rect x="820" y="518" width="84" height="28" rx="14" fill="none" stroke="#7a8fb8" stroke-dasharray="4 4"/><text class="sans" x="862" y="537" font-size="15" font-weight="700" fill="#b6c5e4" text-anchor="middle">Planned</text>
+</svg>
