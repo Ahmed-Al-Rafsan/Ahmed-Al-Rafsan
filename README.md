@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://ahmed-al-rafsan.github.io/"><img src="assets/hero.svg" width="100%" alt="Ahmed Al Rafsan, data analyst in Melbourne, Australia, open to data analyst and junior data engineer roles. Making data make sense. The path: aeronautical engineering, HR and KPI reporting, data analytics, and data engineering, which he is building now. SQL, Python, Power BI, ETL pipelines." /></a>
+<a href="https://ahmed-al-rafsan.github.io/"><img src="assets/hero.svg" width="100%" alt="Ahmed Al Rafsan, data analyst in Melbourne, Australia, working toward applied AI engineering. Open to data analyst and junior data engineer roles. Making data make sense. The path: aeronautical engineering, HR and KPI reporting, data analytics, and data and AI engineering, which he is building now. SQL, Python, Power BI, ETL pipelines." /></a>
 
-<a href="https://ahmed-al-rafsan.github.io/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a>&nbsp;
+<a href="https://ahmed-al-rafsan.github.io/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio: walk through the virtual office" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ahmed-al-rafsan-/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.youtube.com/@AhmedAlRafsan"><img src="assets/btn-youtube.svg" height="44" alt="YouTube" /></a>&nbsp;
 <a href="mailto:ahmed.rafsan108@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
@@ -21,21 +21,29 @@
 
 </div>
 
-## From a business question to a useful answer — and now, to a reliable pipeline
+## Data analyst | Toward applied AI engineering
 
-I'm Rafsan, a **data analyst with an aeronautical engineering degree and a background in HR reporting**, now building **data engineering** foundations. I work in SQL, Python and Power BI to explore data, explain what is driving a pattern, and turn the findings into recommendations someone can act on.
+I'm Rafsan, a **data analyst with an aeronautical engineering degree and a background in HR reporting**. I am working toward **applied AI engineering**, and building the data engineering foundations it stands on first. I work in SQL, Python and Power BI to explore data, explain what is driving a pattern, and turn the findings into recommendations someone can act on.
 
-Before analytics, I owned KPI reporting and performance evaluation for **500+ employees** at Kazi Farms Group, reporting to CEO and GM level. More recently I led a **six-person industry capstone team** at the Australian Institute of Higher Education, where I completed my **Master of Business Information Systems (Data Analytics)** in 2026.
+Before analytics, I owned KPI reporting and performance evaluation for **500+ employees** at Kazi Farms Group, reporting to CEO and GM level. More recently I led a **six-person industry capstone team** at the Australian Institute of Higher Education, where I completed all course requirements for the **Master of Business Information Systems (Data Analytics)** in July 2026.
 
-My current focus is the engineering side of data: pipelines that are repeatable, explain what they rejected, and prove that every row is accounted for.
+My current focus is the engineering side of data: pipelines that are repeatable, explain what they rejected, and prove that every row is accounted for. AI applications are only as dependable as the data underneath them, so that is where I am starting.
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>🔨&nbsp; Building now</b><br />Data engineering foundations in Python: ETL, data-quality rules, logging and error handling.</td>
-    <td width="33%" valign="top"><b>📚&nbsp; Learning next</b><br />Python for data engineering and APIs, then Azure Data Factory, Databricks and PySpark. Planned, not yet used in a project.</td>
-    <td width="33%" valign="top"><b>🎯&nbsp; Open to</b><br />Data Analyst and Junior Data Engineer roles, anywhere in Australia or remote.</td>
-  </tr>
-</table>
+**[Walk through my virtual office →](https://ahmed-al-rafsan.github.io/)** A guided tour with separate rooms for engineering, data, projects, credentials and the roadmap.
+
+## Where I am, and where I am going
+
+Everything on this profile carries one of three labels, so you can tell finished work from plans.
+
+| | Status | What |
+| :-- | :-- | :-- |
+| 🟦 | **Built** | SQL, Python and Power BI analysis across ten projects · applied machine learning with scikit-learn · a Python ETL pipeline with quarantine, logging and reconciled row counts |
+| 🟨 | **Building** | Python and SQL depth · repeatable data pipelines with data-quality rules and tests |
+| ⬜ | **Planned** | Testing and CI (pytest, GitHub Actions) · APIs and containers (FastAPI, Docker) · PostgreSQL with pgvector · Azure data engineering (Data Factory, Databricks, PySpark, Delta Lake) · LLM applications, retrieval, agents and evaluation |
+
+Planned items are a roadmap, not experience. Each one moves up only when there is a repository behind it.
+
+**Open to** Data Analyst and Junior Data Engineer roles, anywhere in Australia or remote.
 
 ## Latest build — data engineering
 
@@ -113,9 +121,9 @@ The Forage projects are learning simulations, not employment with those organisa
 
 <img src="assets/toolkit.svg" width="100%" alt="T-shaped skills map. Depth, used in every project: SQL and MySQL, Python with pandas, NumPy, logging and try/except, Power BI and DAX, Excel. Breadth applied in projects: Python ETL, applied machine learning with scikit-learn, statistics, Tableau, Git and GitHub, relational data design, AI-assisted work. Learning next, not yet used in a project: Python for data engineering and APIs, Azure Data Factory, Databricks and PySpark, Delta Lake, CI/CD. Long-term interest: data analysis and ML applied to aerospace." />
 
-**Learning next:** Python for data engineering and APIs, then a cloud pipeline on Azure Data Factory and Databricks with PySpark and Delta Lake. These are a roadmap, not completed experience.
+**Learning next:** Python for data engineering and APIs, then a cloud pipeline on Azure Data Factory and Databricks with PySpark and Delta Lake, then LLM applications. These are a roadmap, not completed experience.
 
-**Long-term interest:** applying data and AI to aerospace problems, building on my engineering education.
+**Long-term interest:** research in dependable AI systems, building on an engineering education and a habit of saying what a result does and does not prove.
 
 ## How I approach the work
 
@@ -126,12 +134,14 @@ The Forage projects are learning simulations, not employment with those organisa
 
 <br />
 
-- **Master of Business Information Systems (Data Analytics)** — Australian Institute of Higher Education, Melbourne · completed 2026
-- **MBA in Human Resource Management** — North South University
-- **Bachelor of Engineering, Aircraft Design & Engineering** — Nanchang Hangkong University, China
-- **Google Advanced Data Analytics Professional Certificate** — Coursera
-- **IBM Data Analyst Professional Certificate** — Coursera
-- **Creative Designing in Power BI** — Microsoft / Coursera
+- **Master of Business Information Systems (Data Analytics)** — Australian Institute of Higher Education, Melbourne · all course requirements completed, July 2026
+- **Master of Business Administration** — North South University · completed April 2021
+- **Bachelor of Engineering, Aircraft Design & Engineering** — Nanchang Hangkong University, China · awarded December 2017
+- **Engineers Australia skills assessment** (29 Oct 2026) — the competencies demonstrated, together with the BEng, meet the requirement for Professional Engineer – Aeronautical Engineer (ANZSCO 233911)
+- **Google Advanced Data Analytics Professional Certificate** — Coursera · January 2026 · [verify](https://coursera.org/verify/professional-cert/QMLEPBEVKU9A)
+- **IBM Data Analyst Professional Certificate** — Coursera · January 2026 · [verify](https://coursera.org/verify/professional-cert/9IOZYKAWYNQL)
+- **Creative Designing in Power BI** — Microsoft / Coursera · January 2026 · [verify](https://coursera.org/verify/LPHLUJS5L5N1)
+- **Certification plan (not yet held)** — Microsoft PL-300 in preparation; Azure AI Apps and Agents Developer (AI-103) and a data engineering certificate planned
 - **Data engineering** — self-directed study, 2026: Python ETL, data quality, logging and error handling
 
 </details>
@@ -148,6 +158,6 @@ The Forage projects are learning simulations, not employment with those organisa
 
 **Let's connect.** I'm interested in work where careful analysis, reliable data and clear communication make a difference.
 
-[Portfolio](https://ahmed-al-rafsan.github.io/) · [LinkedIn](https://www.linkedin.com/in/ahmed-al-rafsan-/) · [YouTube](https://www.youtube.com/@AhmedAlRafsan) · [ahmed.rafsan108@gmail.com](mailto:ahmed.rafsan108@gmail.com)
+[Virtual office](https://ahmed-al-rafsan.github.io/) · [LinkedIn](https://www.linkedin.com/in/ahmed-al-rafsan-/) · [YouTube](https://www.youtube.com/@AhmedAlRafsan) · [ahmed.rafsan108@gmail.com](mailto:ahmed.rafsan108@gmail.com)
 
 </div>
