@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="t d">
-  <title id="t">Ahmed Al Rafsan — Data analyst, toward applied AI engineering</title>
-  <desc id="d">Navy blueprint-style banner. Ahmed Al Rafsan, data analyst, open to data analyst and junior data engineer roles. Making data make sense. A dimension line traces his path: aeronautical engineering, HR and KPI reporting, data analytics, and data and AI engineering, which he is building now. SQL, Python, Power BI, ETL pipelines. Melbourne, Australia. A small animated figure shows raw data flowing through analysis into a ranked decision.</desc>
+  <title id="t">Ahmed Al Rafsan: data analyst building toward applied AI engineering</title>
+  <desc id="d">Navy blueprint-style banner. Ahmed Al Rafsan, data analyst building toward applied AI engineering, open to data analyst and junior data or AI roles. Making data make sense. A dimension line traces his path: aeronautical engineering, HR and KPI reporting, data analytics, and applied AI engineering, which he is building now. SQL, Python, Power BI, ETL pipelines. Melbourne, Australia. A small animated figure shows raw data flowing through analysis into a ranked decision. A status list reads: built, analytics, machine learning and ETL projects; building, Python engineering depth and APIs; next, LLM applications with RAG, agents and evaluation.</desc>
   <style>
     .sans{font-family:Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif}
     .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
@@ -45,23 +45,23 @@
 
   <!-- status pill -->
   <g>
-    <rect x="56" y="44" width="500" height="34" rx="17" fill="#2858ef" fill-opacity=".2" stroke="#5b8cff" stroke-opacity=".45"/>
+    <rect x="56" y="44" width="462" height="34" rx="17" fill="#2858ef" fill-opacity=".2" stroke="#5b8cff" stroke-opacity=".45"/>
     <circle cx="78" cy="61" r="5" fill="#7fdcc6" class="pulse"/>
     <circle cx="78" cy="61" r="5" fill="#7fdcc6"/>
-    <text x="93" y="66" class="mono" font-size="12.5" letter-spacing="1.4" fill="#dbe6ff">OPEN TO DATA ANALYST &amp; JUNIOR DATA ENGINEER ROLES</text>
+    <text x="93" y="66" class="mono" font-size="12.5" letter-spacing="1.4" fill="#dbe6ff">OPEN TO DATA ANALYST &amp; JUNIOR DATA / AI ROLES</text>
   </g>
 
   <!-- identity -->
   <text x="54" y="150" class="sans" font-size="60" font-weight="700" letter-spacing="-1.6" fill="#f2f6ff">Ahmed Al Rafsan</text>
   <text x="56" y="202" class="sans" font-size="29" font-weight="600" letter-spacing="-.4" fill="#a9c4ff">Making data make sense.<tspan class="blink" fill="#7fdcc6"> _</tspan></text>
-  <text x="56" y="240" class="sans" font-size="18" fill="#b6c5e4">Data analyst, working toward applied AI engineering.</text>
+  <text x="56" y="240" class="sans" font-size="18" fill="#b6c5e4">Data analyst building toward applied AI engineering.</text>
 
   <!-- the path, drawn as a dimension line -->
   <text x="56" y="286" class="mono" font-size="12" letter-spacing="1.6" fill="#7a8fb8">THE PATH  ·  FOUR CHAPTERS, ONE THREAD</text>
   <path d="M56 330H650" stroke="#a9c4ff" stroke-opacity=".6" marker-start="url(#arr)" marker-end="url(#arr)"/>
   <path d="M56 321V339" stroke="#a9c4ff" stroke-opacity=".6"/><path d="M204.5 321V339" stroke="#a9c4ff" stroke-opacity=".6"/><path d="M353 321V339" stroke="#a9c4ff" stroke-opacity=".6"/><path d="M501.5 321V339" stroke="#a9c4ff" stroke-opacity=".6"/><path d="M650 321V339" stroke="#a9c4ff" stroke-opacity=".6"/>
   <circle cx="575.75" cy="330" r="4.5" fill="#7fdcc6" class="pulse"/><circle cx="575.75" cy="330" r="4.5" fill="#7fdcc6"/><circle cx="427.25" cy="330" r="3.5" fill="#a9c4ff" fill-opacity=".8"/>
-  <text x="130.25" y="312" text-anchor="middle" class="mono" font-size="11.5" letter-spacing=".2" fill="#b6c5e4">AERONAUTICAL ENG.</text><text x="130.25" y="356" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#7a8fb8">01</text><text x="278.75" y="312" text-anchor="middle" class="mono" font-size="11.5" letter-spacing=".2" fill="#b6c5e4">HR &amp; KPI REPORTING</text><text x="278.75" y="356" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#7a8fb8">02</text><text x="427.25" y="312" text-anchor="middle" class="mono" font-size="11.5" letter-spacing=".2" fill="#b6c5e4">DATA ANALYTICS</text><text x="427.25" y="356" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#7a8fb8">03</text><text x="575.75" y="312" text-anchor="middle" class="mono" font-size="11.5" letter-spacing=".2" fill="#7fdcc6">DATA &amp; AI ENGINEERING</text><text x="575.75" y="356" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#7fdcc6">04 · BUILDING NOW</text>
+  <text x="130.25" y="312" text-anchor="middle" class="mono" font-size="11.5" letter-spacing=".2" fill="#b6c5e4">AERONAUTICAL ENG.</text><text x="130.25" y="356" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#7a8fb8">01</text><text x="278.75" y="312" text-anchor="middle" class="mono" font-size="11.5" letter-spacing=".2" fill="#b6c5e4">HR &amp; KPI REPORTING</text><text x="278.75" y="356" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#7a8fb8">02</text><text x="427.25" y="312" text-anchor="middle" class="mono" font-size="11.5" letter-spacing=".2" fill="#b6c5e4">DATA ANALYTICS</text><text x="427.25" y="356" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#7a8fb8">03</text><text x="575.75" y="312" text-anchor="middle" class="mono" font-size="11.5" letter-spacing=".2" fill="#7fdcc6">APPLIED AI ENG.</text><text x="575.75" y="356" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#7fdcc6">04 · BUILDING NOW</text>
 
   <!-- footer meta -->
   <path d="M56 378H650" stroke="#a9c4ff" stroke-opacity=".14"/>
@@ -73,9 +73,10 @@
     <rect x="712" y="44" width="440" height="352" rx="16" fill="url(#panelh)" stroke="#5b8cff" stroke-opacity=".32"/>
     <path d="M705 44H719M712 37V51" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M1145 44H1159M1152 37V51" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M705 396H719M712 389V403" stroke="#a9c4ff" stroke-opacity=".45"/><path d="M1145 396H1159M1152 389V403" stroke="#a9c4ff" stroke-opacity=".45"/>
     <circle cx="734" cy="66" r="3.5" fill="#a9c4ff" fill-opacity=".8"/><circle cx="748" cy="66" r="3.5" fill="#a9c4ff" fill-opacity=".5"/><circle cx="762" cy="66" r="3.5" fill="#a9c4ff" fill-opacity=".3"/>
-    <text x="1134" y="70" text-anchor="end" class="mono" font-size="12" letter-spacing="1.6" fill="#7a8fb8">FIG. 01</text>
+    <text x="1134" y="70" text-anchor="end" class="mono" font-size="12" letter-spacing="1.6" fill="#7a8fb8">NOW</text>
     <path d="M712 86H1152" stroke="#5b8cff" stroke-opacity=".2"/>
 
+    <g transform="translate(932 104) scale(0.78) translate(-932 -124)">
     <rect x="800" y="295" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.83"/><rect x="819" y="138" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.26"/><rect x="808" y="181" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.61"/><rect x="813" y="228" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.72"/><rect x="742" y="203" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.51"/><rect x="819" y="230" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.70"/><rect x="754" y="309" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.57"/><rect x="823" y="228" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.72"/><rect x="754" y="259" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.51"/><rect x="781" y="218" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.34"/><rect x="798" y="245" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.41"/><rect x="789" y="212" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.84"/><rect x="828" y="271" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.71"/><rect x="805" y="186" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.58"/><rect x="796" y="297" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.57"/><rect x="793" y="156" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.56"/><rect x="828" y="319" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.79"/><rect x="825" y="142" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.74"/><rect x="766" y="205" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.77"/><rect x="785" y="300" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.60"/><rect x="796" y="191" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.83"/><rect x="765" y="270" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.74"/><rect x="830" y="157" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.65"/><rect x="845" y="320" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.72"/><rect x="850" y="227" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.47"/><rect x="769" y="142" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.70"/><rect x="762" y="277" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.65"/><rect x="845" y="136" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.40"/><rect x="826" y="167" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.51"/><rect x="843" y="318" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.82"/><rect x="780" y="229" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.57"/><rect x="773" y="320" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.40"/><rect x="822" y="143" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.27"/><rect x="787" y="266" width="7" height="7" rx="1.5" fill="#a9c4ff" fill-opacity="0.58"/>
 
     <g fill="none" stroke="#5b8cff" stroke-opacity=".35" stroke-width="1.5">
@@ -101,9 +102,20 @@
       <rect class="grow" style="animation-delay:.5s" x="1050" y="224" width="48" height="12" rx="6" fill="#a9c4ff" fill-opacity=".6"/>
       <rect class="grow" style="animation-delay:.65s" x="1050" y="248" width="34" height="12" rx="6" fill="#a9c4ff" fill-opacity=".4"/>
     </g>
-
-    <g class="mono" font-size="12" letter-spacing="1.4" fill="#b6c5e4" text-anchor="middle">
-      <text x="800" y="366">QUESTION</text><text x="976" y="366">ANALYSIS</text><text x="1089" y="366">DECISION</text>
     </g>
+    <g class="mono" font-size="11" letter-spacing="1.4" fill="#b6c5e4" text-anchor="middle">
+      <text x="829.0" y="286">QUESTION</text><text x="966.3" y="286">ANALYSIS</text><text x="1054.5" y="286">DECISION</text>
+    </g>
+    <path d="M712 304H1152" stroke="#5b8cff" stroke-opacity=".2"/>
+    <circle cx="738" cy="327" r="4" fill="#7fdcc6"/>
+    <text x="752" y="331" class="mono" font-size="11.5" letter-spacing="1.4" fill="#7fdcc6">BUILT</text>
+    <text x="846" y="331" class="sans" font-size="14.5" fill="#e3ebff">Analytics, ML and ETL projects</text>
+    <circle cx="738" cy="351" r="4" fill="#8fb0ff" class="pulse"/><circle cx="738" cy="351" r="4" fill="#8fb0ff"/>
+    <text x="752" y="355" class="mono" font-size="11.5" letter-spacing="1.4" fill="#8fb0ff">BUILDING</text>
+    <text x="846" y="355" class="sans" font-size="14.5" fill="#e3ebff">Python engineering depth, APIs</text>
+    <circle cx="738" cy="375" r="3.5" fill="none" stroke="#a9c4ff" stroke-width="1.4" stroke-dasharray="2 2"/>
+    <text x="752" y="379" class="mono" font-size="11.5" letter-spacing="1.4" fill="#a9c4ff">NEXT</text>
+    <text x="846" y="379" class="sans" font-size="14.5" fill="#e3ebff">LLM apps: RAG, agents, evaluation</text>
+  
   </g>
 </svg>

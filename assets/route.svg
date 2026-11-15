@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="trt drt">
+  <title id="trt">The route from here: four stages</title>
+  <desc id="drt">A four-stage route. Stage 1, in progress: engineering foundations - Python depth, terminal, Git, SQL, calling and building APIs, testing, debugging and logging. Stage 2, next: AI applications - LLM APIs and prompt design, embeddings, vector search, RAG, evaluation, agents and security. Stage 3, planned: ship and run - Docker, Azure Container Apps, CI/CD with GitHub Actions and one deployed AI project. Stage 4, planned: ML depth - maths for ML, scikit-learn, an aerospace and ML project, and deep learning with PyTorch. Stages 1 to 3 lead to applied AI engineering roles; stage 4 leads to machine learning for aerospace.</desc>
+  <style>
+    .sans{font-family:Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif}
+    .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+    .flow{stroke-dasharray:1 13;stroke-linecap:round;animation:flowrt 1.7s linear infinite}
+    @keyframes flowrt{to{stroke-dashoffset:-28}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulsert 2.4s ease-out infinite}
+    @keyframes pulsert{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.6);opacity:0}}
+    
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="bgrt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1630"/><stop offset=".6" stop-color="#0f2250"/><stop offset="1" stop-color="#173c8b"/></linearGradient>
+    <linearGradient id="rulert" x1="0" x2="1"><stop offset="0" stop-color="#2858ef"/><stop offset=".7" stop-color="#5b8cff"/><stop offset="1" stop-color="#7fdcc6"/></linearGradient>
+    <linearGradient id="cardrt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a367a"/><stop offset="1" stop-color="#12285e"/></linearGradient>
+    <clipPath id="cliprt"><rect width="1200" height="440" rx="20"/></clipPath>
+    <pattern id="gmrt" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#a9c4ff" stroke-opacity=".045"/></pattern>
+    <pattern id="gMrt" width="100" height="100" patternUnits="userSpaceOnUse"><rect width="100" height="100" fill="url(#gmrt)"/><path d="M100 0H0V100" fill="none" stroke="#a9c4ff" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1200" height="440" rx="20" fill="url(#bgrt)"/>
+  <rect width="1200" height="440" rx="20" fill="url(#gMrt)"/>
+  <rect width="1200" height="4" fill="url(#rulert)" clip-path="url(#cliprt)"/>
+  <rect x=".5" y=".5" width="1199" height="439" rx="19.5" fill="none" stroke="#a9c4ff" stroke-opacity=".14"/>
+  <text x="40" y="66" class="sans" font-size="28" font-weight="700" letter-spacing="-.4" fill="#f2f6ff">The route from here</text>
+  <text x="40" y="96" class="sans" font-size="16" fill="#b6c5e4">Four stages, taken one at a time. Each stage ends with something built and published on this profile.</text>
+  <path d="M76 156H1142" stroke="#a9c4ff" stroke-opacity=".3" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round" fill="none"/>
+  <path d="M94 156H344" stroke="#7fdcc6" stroke-width="4" class="flow" fill="none"/>
+  <circle cx="76" cy="156" r="18" fill="#7fdcc6" class="pulse"/>
+  <circle cx="76" cy="156" r="18" fill="#7fdcc6"/>
+  <text x="76" y="161.5" class="sans" font-size="16" font-weight="700" text-anchor="middle" fill="#06112b">1</text>
+  <text x="58" y="210" class="mono" font-size="12" letter-spacing="1.6" fill="#7fdcc6">IN PROGRESS</text>
+  <text x="58" y="240" class="sans" font-size="21" font-weight="700" letter-spacing="-.2" fill="#f2f6ff">Engineering foundations</text>
+  <text x="58" y="271" class="sans" font-size="15.5" fill="#c3d2f2">Python depth, terminal, Git</text>
+  <text x="58" y="295" class="sans" font-size="15.5" fill="#c3d2f2">SQL, calling and building APIs</text>
+  <text x="58" y="319" class="sans" font-size="15.5" fill="#c3d2f2">Testing, debugging, logging</text>
+  <circle cx="362" cy="156" r="18" fill="#0f2250" stroke="#8fb0ff" stroke-width="2"/>
+  <text x="362" y="161.5" class="sans" font-size="16" font-weight="700" text-anchor="middle" fill="#f2f6ff">2</text>
+  <text x="344" y="210" class="mono" font-size="12" letter-spacing="1.6" fill="#8fb0ff">NEXT</text>
+  <text x="344" y="240" class="sans" font-size="21" font-weight="700" letter-spacing="-.2" fill="#f2f6ff">AI applications</text>
+  <text x="344" y="271" class="sans" font-size="15.5" fill="#c3d2f2">LLM APIs and prompt design</text>
+  <text x="344" y="295" class="sans" font-size="15.5" fill="#c3d2f2">Embeddings, vector search, RAG</text>
+  <text x="344" y="319" class="sans" font-size="15.5" fill="#c3d2f2">Evaluation, agents, security</text>
+  <circle cx="648" cy="156" r="18" fill="#0f2250" stroke="#93a5cb" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="648" y="161.5" class="sans" font-size="16" font-weight="700" text-anchor="middle" fill="#f2f6ff">3</text>
+  <text x="630" y="210" class="mono" font-size="12" letter-spacing="1.6" fill="#93a5cb">PLANNED</text>
+  <text x="630" y="240" class="sans" font-size="21" font-weight="700" letter-spacing="-.2" fill="#f2f6ff">Ship and run</text>
+  <text x="630" y="271" class="sans" font-size="15.5" fill="#c3d2f2">Docker, Azure Container Apps</text>
+  <text x="630" y="295" class="sans" font-size="15.5" fill="#c3d2f2">CI/CD with GitHub Actions</text>
+  <text x="630" y="319" class="sans" font-size="15.5" fill="#c3d2f2">One deployed AI project</text>
+  <circle cx="934" cy="156" r="18" fill="#0f2250" stroke="#93a5cb" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="934" y="161.5" class="sans" font-size="16" font-weight="700" text-anchor="middle" fill="#f2f6ff">4</text>
+  <text x="916" y="210" class="mono" font-size="12" letter-spacing="1.6" fill="#93a5cb">PLANNED</text>
+  <text x="916" y="240" class="sans" font-size="21" font-weight="700" letter-spacing="-.2" fill="#f2f6ff">ML depth</text>
+  <text x="916" y="271" class="sans" font-size="15.5" fill="#c3d2f2">Maths for ML, scikit-learn</text>
+  <text x="916" y="295" class="sans" font-size="15.5" fill="#c3d2f2">An aerospace + ML project</text>
+  <text x="916" y="319" class="sans" font-size="15.5" fill="#c3d2f2">Deep learning with PyTorch</text>
+  <rect x="58" y="356" width="838" height="46" rx="12" fill="#7fdcc6" fill-opacity=".08" stroke="#7fdcc6" stroke-opacity=".45"/>
+  <text x="78" y="385" class="sans" font-size="14.5" fill="#b6c5e4">Stages 1 to 3 lead to</text>
+  <text x="228" y="385" class="sans" font-size="16" font-weight="700" fill="#eafff9">applied AI engineering roles</text>
+  <rect x="916" y="356" width="244" height="46" rx="12" fill="#5b8cff" fill-opacity=".1" stroke="#5b8cff" stroke-opacity=".55"/>
+  <text x="934" y="385" class="sans" font-size="14.5" fill="#b6c5e4">then</text>
+  <text x="972" y="385" class="sans" font-size="16" font-weight="700" fill="#eef3ff">ML for aerospace</text>
+</svg>
